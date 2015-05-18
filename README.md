@@ -1,2 +1,5 @@
 # README
-##### Please follow the given link to go to the Project Page
+##### For detailed updates please go to the [Project Page](kumarsiddharth.github.io)
+
+
+
