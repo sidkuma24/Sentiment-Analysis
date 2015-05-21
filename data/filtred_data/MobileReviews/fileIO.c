@@ -2,7 +2,9 @@
 #include <string.h>
 
 char buffer[4096];
-static int senID = 134;
+static int readSenID = 0;
+static int newSenID = 134;
+char polrity[5];
 int main(int argc, char **argv)
 {
     FILE *fptr, *fptr2;
@@ -17,11 +19,10 @@ int main(int argc, char **argv)
     fseek(fptr,0,SEEK_SET);
     
     
-    while((fgets(buffer,sizeof(buffer),fptr)) != NULL){
-       fprintf(stdout,"%s",buffer);
-       
-        senID++;
-        fprintf(fptr2,"%d\t%s\t%s",senID,"pos",buffer);
+    while((fscanf(fptr,"%d %s %s",&readSenID,polarity,buffer)) != NULL){
+       newSenID++;
+       fprintf(stdout,"%d\t%s\t%s\n",newSenID,polarity,buffer);
+       fprintf(fptr2,"%d\t%s\t%s",newSenID,polarity,buffer);
     }
 
  fclose(fptr);
