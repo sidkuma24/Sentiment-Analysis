@@ -1,3 +1,0 @@
-no of reviews(approx.): 95 
-no of sentences: 700
-no of tokens: 13308
