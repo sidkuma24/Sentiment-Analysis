@@ -18,7 +18,10 @@ Docs/Papers
 Docs/Books
 *_ignore*
 study_material/
-
+Docs/
+source/
+data/filtered_data
+data/raw_data
 
 
 # Normal rules
