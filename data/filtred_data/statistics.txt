@@ -1,0 +1,94 @@
+1. Mobile Reviews:
+	Positive: 850		Negative:289	
+	Neutral: 786 		Conflict:69
+   total sentences:1936
+   total tokens:
+
+2. Tablet Reviews:
+	Positive: 483		Negative: 200	
+	Neutral: 531		Conflict: 78
+   total sentences:1300
+   total tokens:  23553		 
+
+3. Laptop Reviews:
+	Positive:247		Negative:54	
+	Neutral:173		Conflict:13
+   total sentences: 493
+   total tokens:8680
+		 
+4. TV Reviews:
+	Positive: 52		Negative:4	
+	Neutral:165		Conflict:6
+   total sentences:278
+   total tokens:5029
+
+5. Headphones Reviews:
+	Positive:19		Negative:7	
+	Neutral:16		Conflict:3
+   total sentences:45
+   total tokens:810
+		 
+
+6. Speakers Reviews:
+	Positive:19		Negative:2	
+	Neutral:25		Conflict:1
+   total sentences:47
+   total tokens:647
+		 
+7. Camera Reviews:
+	Positive: 81		Negative: 17	
+	Neutral: 84		Conflict:4
+   total sentences: 162
+   total tokens: 3214
+		 
+
+8. Refrigerator Reviews:
+	Positive: 25		Negative:7	
+	Neutral: 20		Conflict:2
+   total sentences: 54
+   total tokens: 795
+		 
+
+9. AC Reviews:
+	Positive:		Negative:	
+	Neutral:		Conflict:
+   total sentences:10
+   total tokens:
+		 
+
+10. Smart watches Reviews:
+	Positive:		Negative:	
+	Neutral:		Conflict:
+   total sentences: 500
+   total tokens:
+		 
+
+
+11. home appliances Reviews:
+	Positive:		Negative:	
+	Neutral:		Conflict:
+   total sentences: 100
+   total tokens:
+   		 
+
+
+12. App Reviews:
+	Positive:		Negative:	
+	Neutral:		Conflict:
+   total sentences: 800
+   total tokens:
+   		 
+13: Movie reviews:
+	Positive:	Negative:
+	Neutral:	Conflict:
+        total sentences: 883
+
+13. Travel Reviews:
+	Positive:		Negative:	
+	Neutral:		Conflict:
+   total sentences:1500
+   total tokens:
+   		 
+
+
+		 
