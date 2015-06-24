@@ -1,9 +1,9 @@
 #!/bin/sh
 
 mkdir ../annotated_siddharth/build
-mv ./*.java ../annotated_siddharth/build
+cp ./*.java ../annotated_siddharth/build
 cd ../annotated_siddharth/build
-mv ../*.txt build/
+cp ../*.txt .
 
 javac sentenceID.java
 java sentenceID app_siddharth.txt app
@@ -23,7 +23,15 @@ rm app_siddharth.txt camera_siddharth.txt headphones_siddharth.txt \
 home_appliances_siddharth.txt laptop_siddharth.txt mobile_siddharth.txt \
 movies_siddharth.txt smartwatch_siddharth.txt speaker_siddharth.txt \
 tablet_siddharth.txt travel_siddharth.txt tv_siddharth.txt
+
 cat id_*.txt >> id_all.txt
 
 javac CreateXML.java
 java CreateXML id_all.txt  
+
+rm *.class *.java 
+
+rm id_app_siddharth.txt id_camera_siddharth.txt id_headphones_siddharth.txt \
+id_home_appliances_siddharth.txt id_laptop_siddharth.txt id_mobile_siddharth.txt \
+id_movies_siddharth.txt id_smartwatch_siddharth.txt id_speaker_siddharth.txt \
+id_tablet_siddharth.txt id_travel_siddharth.txt id_tv_siddharth.txt

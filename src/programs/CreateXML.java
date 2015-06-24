@@ -58,6 +58,7 @@ public class CreateXML
 				Attr senAttr1 = doc.createAttribute("id");
 				
 				senAttr1.setValue(result0[0]);
+
 				sentence.setAttributeNode(senAttr1);
 				Attr senAttr2 = doc.createAttribute("polarity");
 				//System.out.println(sc.next());
@@ -105,6 +106,9 @@ public class CreateXML
                         //boolean found = false;
 
                          f = result0[2].indexOf(aspectTermBuf[0]);
+                         if(f==-1){
+                         	System.out.println(result0[0] + "ID=" + f);
+                         }
                          from = Integer.toString(f);  
                          t = f + aspectTermBuf[0].length();
                          to  = Integer.toString(t);                      

@@ -10,7 +10,7 @@ public class sentenceID
 		Scanner sc = null;
 		String senIDPrefix = args[1];
 		String textFile = null;
-		String outFile = "./ID/"+"id_" + args[0]; 
+		String outFile = "id_" + args[0]; 
 		FileWriter fw = new FileWriter(outFile);
 	    BufferedWriter bw = new BufferedWriter(fw);
 
