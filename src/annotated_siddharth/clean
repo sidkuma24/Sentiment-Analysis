@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -r ID
+rm Annotation.xml
+rm id_all.txt
+rm *~
