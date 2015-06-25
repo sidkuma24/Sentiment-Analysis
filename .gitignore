@@ -21,6 +21,8 @@ study_material/
 TODO/
 ResearchPapers/
 
+*.class
+
 
 # Normal rules
 #
