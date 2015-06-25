@@ -57,13 +57,13 @@ public class CreateXML
 				rootElement.appendChild(sentence);
 				Attr senAttr1 = doc.createAttribute("id");
 				
-				senAttr1.setValue(result0[0]);
+				senAttr1.setValue(result0[0].trim());
 
 				sentence.setAttributeNode(senAttr1);
 				Attr senAttr2 = doc.createAttribute("polarity");
 				//System.out.println(sc.next());
 				if(result0.length>1)
-				senAttr2.setValue(result0[1]);
+				senAttr2.setValue(result0[1].trim());
 				sentence.setAttributeNode(senAttr2);
 
 				//temp2 = sc.nextLine();
@@ -71,12 +71,12 @@ public class CreateXML
 				if(result0.length>2){
 				    bw.write(Integer.toString(sentenceCount));
 					bw.write("\t");
-					bw.write(result0[1]);
+					bw.write(result0[1].trim());
 					bw.write("\t");
-					bw.write(result0[2]);
+					bw.write(result0[2].trim());
 					bw.write("\n");
 					bw.flush();
-				    text.appendChild(doc.createTextNode(result0[2]));
+				    text.appendChild(doc.createTextNode(result0[2].trim()));
 					
 				}
 				sentence.appendChild(text);
@@ -90,13 +90,13 @@ public class CreateXML
                 		Attr aTAttr1 = doc.createAttribute("term");
                 		if(aspectTermBuf.length>0){
                 			//System.out.println("term:"+ aspectTermBuf[0]);
-                	        aTAttr1.setValue(aspectTermBuf[0]);
+                	        aTAttr1.setValue(aspectTermBuf[0].trim());
                 	        aspectTerm.setAttributeNode(aTAttr1);
                 	    }
                    		Attr aTAttr2 = doc.createAttribute("polarity");
                    		if(aspectTermBuf.length>1){
                    			//System.out.println("polarity:"+aspectTermBuf[1]);
-                            aTAttr2.setValue(aspectTermBuf[1]);
+                            aTAttr2.setValue(aspectTermBuf[1].trim());
                              aspectTerm.setAttributeNode(aTAttr2);
                          }
                         int t = 0;
@@ -105,7 +105,7 @@ public class CreateXML
               			String from = "";
                         //boolean found = false;
 
-                         f = result0[2].indexOf(aspectTermBuf[0]);
+                         f = result0[2].indexOf(aspectTermBuf[0].trim());
                        
                          from = Integer.toString(f);  
                          t = f + aspectTermBuf[0].length();
