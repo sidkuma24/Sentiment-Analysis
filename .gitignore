@@ -23,7 +23,7 @@ ResearchPapers/
 
 *.class
 *_test
-*_test/
+src_test/
 
 # Normal rules
 #
