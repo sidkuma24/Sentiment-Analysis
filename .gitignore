@@ -22,7 +22,7 @@ TODO/
 ResearchPapers/
 
 *.class
-
+*_test
 
 # Normal rules
 #
