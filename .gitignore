@@ -23,7 +23,7 @@ ResearchPapers/
 
 *.class
 *_test
-/src_test/
+
 
 # Normal rules
 #
@@ -129,3 +129,4 @@ all.config
 build/
 Books/
 others/
+src_test/
