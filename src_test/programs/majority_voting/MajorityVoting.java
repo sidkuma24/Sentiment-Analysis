@@ -35,6 +35,13 @@ public class MajorityVoting{
 		return true;
     }
 
+    public static int randInt(int min, int max) {
+		Random rand = new Random();
+		int randomNum = rand.nextInt((max - min) + 1) + min;
+
+    return randomNum;
+    }
+
 	public static void main(String args[]) throws IOException, ClassNotFoundException
 	{
 		Scanner sc = null;
@@ -198,13 +205,24 @@ public class MajorityVoting{
 							}
 						}
 					}
-					
+				}
+				if(!majoritySet){
+					int i = randInt(0,annotater.length)-1;
+					int aTermCount = 0;
+					int j = randInt(0,annotater[i].aspectTermVote.length)-1;
+    				if(isUniqueAspectTerm(aTermBuf,annotater[i].aspectTerms[j])){
+						aTermBuf[aTermCount++] = annotater[i].aspectTerms[j];
+						bw.write("\t");
+						bw.write(annotater[i].aspectTerms[j]);
+						bw.write(":");
+						bw.write(annotater[i].aspectPol[j]);
+					}
 				}
 				bw.write("\n");
 				bw.flush();
 			}
 			bw.flush();
-			
+
 		}
 		catch(IOException ex) {
            
