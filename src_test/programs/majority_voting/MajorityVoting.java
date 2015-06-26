@@ -21,8 +21,20 @@ class Annotater
 		
 	}
 }
-
+//System.out.println("checkString loop counter i="+ i);//for debugging
 public class MajorityVoting{
+
+	public static boolean isUniqueAspectTerm(String [] searchString, String inString)
+    {
+ 		for(int i = 0;i<searchString.length;i++){
+ 			
+ 			if((searchString[i]!=null) && (searchString[i].compareTo(inString))==0){
+				return false;
+			}
+		}
+		return true;
+    }
+
 	public static void main(String args[]) throws IOException, ClassNotFoundException
 	{
 		Scanner sc = null;
@@ -39,6 +51,7 @@ public class MajorityVoting{
 	    BufferedWriter bw = new BufferedWriter(fw);
 	    String tempAspectTerm = null;
 	    Annotater [] annotater = new Annotater[3];
+	    String [] aTermBuf = new String[20];
 
 		try{
 
@@ -167,30 +180,30 @@ public class MajorityVoting{
 				}
 				bw.write(result[0]);
                 boolean majoritySet = false;
+
 				for(int i=0;i<annotater.length;i++){
+					int aTermCount = 0;
 					for(int j=0;j<annotater[i].aspectTermVote.length;j++){
-						//majority
-						if(annotater[i].aspectTermVote[j]>=2){
+						
+						if(annotater[i].aspectTermVote[j]>=1){
+
 							majoritySet = true;
-							bw.write("\t");
-							if(annotater[i].aspectTermPrintFlag==0){
+							if(isUniqueAspectTerm(aTermBuf,annotater[i].aspectTerms[j])){
+								aTermBuf[aTermCount++] = annotater[i].aspectTerms[j];
+								bw.write("\t");
 								bw.write(annotater[i].aspectTerms[j]);
+								
 								bw.write(":");
 								bw.write(annotater[i].aspectPol[j]);
-							
-								for(int k=0;k<annotater.length;k++){
-									annotater[k].aspectTermPrintFlag++;
-								}
 							}
-							bw.flush();
 						}
 					}
+					
 				}
 				bw.write("\n");
 				bw.flush();
-				
-
 			}
+			bw.flush();
 			
 		}
 		catch(IOException ex) {
