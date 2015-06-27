@@ -46,7 +46,7 @@ public class MajorityVoting{
 	{
 		Scanner sc = null;
 		String inputFile = args[0];
-		String outputFile = args[0] + "_out.txt";
+		String outputFile = "out_" + args[0];
 		String sen_id = null;
 		String [] aspectTermBuf1 = null;
 		String [] aspectTermBuf1_result = null;
@@ -75,8 +75,8 @@ public class MajorityVoting{
 					result[j].trim();
 					//System.out.println(result[j]);
 				}
-				System.out.println("Sentence ID:"+result[0]);
-				System.out.println("Siddharth:");
+				//System.out.println("Sentence ID:"+result[0]);
+				//System.out.println("Siddharth:");
 				if(result.length>1){
 					aspectTermBuf1 = result[1].split(";");
 					annotater[0] = new Annotater(aspectTermBuf1.length);
@@ -89,7 +89,7 @@ public class MajorityVoting{
 								
 								for(int k = 0 ; k < aspectTermBuf1_result.length;k++){
 									aspectTermBuf1_result[k].trim();
-									System.out.println(aspectTermBuf1_result[k]);
+									//System.out.println(aspectTermBuf1_result[k]);
 								}
 								annotater[0].aspectTerms[j] = aspectTermBuf1_result[0];
 								annotater[0].aspectPol[j] = aspectTermBuf1_result[1];
@@ -98,7 +98,7 @@ public class MajorityVoting{
 						annotater[0].name = "Siddharth";
 					}
 				}
-				System.out.println("Geeta:");
+				//System.out.println("Geeta:");
 				if(result.length>2){
 					 aspectTermBuf2 = result[2].split(";");
 					 annotater[1] = new Annotater(aspectTermBuf2.length);
@@ -109,7 +109,7 @@ public class MajorityVoting{
 							if(aspectTermBuf2_result != null){
 								for(int k = 0 ; k < aspectTermBuf2_result.length;k++){
 									aspectTermBuf2_result[k].trim();
-									System.out.println(aspectTermBuf2_result[k]);
+									//System.out.println(aspectTermBuf2_result[k]);
 
 								}
 								annotater[1].aspectTerms[j] = aspectTermBuf2_result[0];
@@ -119,7 +119,7 @@ public class MajorityVoting{
 						annotater[1].name = "Geeta";
 					}
 				}
-				System.out.println("Pooja:");
+				//System.out.println("Pooja:");
 			    if(result.length>3){
 					aspectTermBuf3 = result[3].split(";");
 					annotater[2] = new Annotater(aspectTermBuf3.length);
@@ -130,7 +130,7 @@ public class MajorityVoting{
 							if(aspectTermBuf3_result != null){
 								for(int k = 0 ; k < aspectTermBuf3_result.length;k++){
 									aspectTermBuf1_result[k].trim();
-									System.out.println(aspectTermBuf3_result[k]);
+									//System.out.println(aspectTermBuf3_result[k]);
 
 								}
 								annotater[2].aspectTerms[j] = aspectTermBuf3_result[0];
@@ -140,12 +140,12 @@ public class MajorityVoting{
 						annotater[2].name = "Pooja";
 					}
 				}
-				System.out.println("\n");
+				//System.out.println("\n");
 
 				for(int j=0 ; j<annotater.length;j++){
-					System.out.println(annotater[j].name);
+					//System.out.println(annotater[j].name);
 					for(int k=0;k<annotater[j].aspectTerms.length;k++){
-						System.out.println(annotater[j].aspectTerms[k]);
+						//System.out.println(annotater[j].aspectTerms[k]);
 					}
 				}
 
@@ -160,7 +160,7 @@ public class MajorityVoting{
 					for(int j=0;j<annotater[1].aspectTerms.length;j++){
 						if(annotater[0].aspectTerms[i].compareTo(annotater[1].aspectTerms[j]) == 0){
 							annotater[0].aspectTermVote[i]++;
-							System.out.println("annotater[0].aspectTermVote[i]:"+ annotater[0].aspectTermVote[i]);
+							//System.out.println("annotater[0].aspectTermVote[i]:"+ annotater[0].aspectTermVote[i]);
 							annotater[1].aspectTermVote[j]++;
 						}
 					}
@@ -207,9 +207,9 @@ public class MajorityVoting{
 					}
 				}
 				if(!majoritySet){
-					int i = randInt(0,annotater.length)-1;
+					int i = randInt(0,annotater.length-1);
 					int aTermCount = 0;
-					int j = randInt(0,annotater[i].aspectTermVote.length)-1;
+					int j = randInt(0,annotater[i].aspectTerms.length-1);
     				if(isUniqueAspectTerm(aTermBuf,annotater[i].aspectTerms[j])){
 						aTermBuf[aTermCount++] = annotater[i].aspectTerms[j];
 						bw.write("\t");
@@ -222,6 +222,7 @@ public class MajorityVoting{
 				bw.flush();
 			}
 			bw.flush();
+			System.out.println("Created ouput file :" + outputFile);
 
 		}
 		catch(IOException ex) {
