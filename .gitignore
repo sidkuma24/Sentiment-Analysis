@@ -18,11 +18,20 @@ Docs/Papers
 Docs/Books
 *_ignore*
 study_material/
+<<<<<<< HEAD
 Docs/
 source/
 data/filtered_data
 data/raw_data
 ResearchPaper
+=======
+TODO/
+ResearchPapers/
+
+*.class
+*_test
+
+>>>>>>> development
 
 # Normal rules
 #
@@ -128,3 +137,4 @@ all.config
 build/
 Books/
 others/
+src_test/
