@@ -27,7 +27,7 @@ public class CreateXML
 			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
 			sc = new Scanner(new File(args[0]));
-			String buf="";
+			String buf=null;
 			Document doc = docBuilder.newDocument();
 			Element rootElement = doc.createElement("sentences");
 			doc.appendChild(rootElement);
@@ -99,14 +99,24 @@ public class CreateXML
                             aTAttr2.setValue(aspectTermBuf[1].trim());
                              aspectTerm.setAttributeNode(aTAttr2);
                          }
+                         int aspectTermCount = 0;
                         int t = 0;
                         int f = 0;
                         String to = "";
               			String from = "";
-                        //boolean found = false;
-
-                         f = result0[2].indexOf(aspectTermBuf[0].trim());
-                       
+                        boolean duplicate = false;
+                        String [] aTbuf = new String[50];
+                        aTbuf[aspectTermCount++] = aspectTermBuf[0];
+                        for(int p=0;p<(aspectTermCount-1);p++){
+                            if(aTbuf[p].equals(aspectTermBuf[0])){
+                                duplicate = true;
+                            }
+                        }
+                        if(duplicate){
+                            f = result0[2].lastIndexOf(aspectTermBuf[0].trim());
+                        }else{
+                            f = result0[2].indexOf(aspectTermBuf[0].trim());
+                        }                       
                          from = Integer.toString(f);  
                          t = f + aspectTermBuf[0].length();
                          to  = Integer.toString(t);                      
