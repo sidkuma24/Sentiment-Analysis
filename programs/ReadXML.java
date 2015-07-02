@@ -33,7 +33,7 @@ public class ReadXML {
 		DocumentBuilderFactory dbFactory3 = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder3 = dbFactory3.newDocumentBuilder();
 		Document doc3 = dBuilder3.parse(xmlFile3);
- 
+ 		String [] text = null;
  
 	//optional, but recommended
 	//read this - http://stackoverflow.com/questions/13786607/normalization-in-dom-parsing-with-java-how-does-it-work
@@ -42,8 +42,10 @@ public class ReadXML {
 		doc3.getDocumentElement().normalize();
 		
  
-		System.out.println("Root element :" + doc1.getDocumentElement().getNodeName());
- 
+		//System.out.println("Root element :" + doc1.getDocumentElement().getNodeName());
+		//System.out.println("Root element :" + doc2.getDocumentElement().getNodeName());
+		System.out.println("Root element :" + doc3.getDocumentElement().getNodeName());
+
 		NodeList nList1 = doc1.getElementsByTagName("sentence");
 		NodeList nList2 = doc2.getElementsByTagName("sentence");
 		NodeList nList3 = doc3.getElementsByTagName("sentence");
@@ -54,13 +56,13 @@ public class ReadXML {
 			
 			//first annotater
 			Node nNode1 = nList1.item(temp);
- 			System.out.println("\nCurrent Element :" + nNode1.getNodeName());
+ 			//System.out.println("\nCurrent Element :" + nNode1.getNodeName());
  
 			if (nNode1.getNodeType() == Node.ELEMENT_NODE) {
  
 				Element eElement1 = (Element) nNode1;
  
-				System.out.println("sentence id : " + eElement1.getAttribute("id"));
+				//System.out.println("sentence id : " + eElement1.getAttribute("id"));
 				bw.write(eElement1.getAttribute("id"));
 				bw.write("\t");
 				///System.out.println("apectTerms : " + eElement.getElementsByTagName("firstname").item(0).getTextContent());
@@ -77,13 +79,13 @@ public class ReadXML {
 						for(int k =0;k<nodeList1.getLength();k++){
 							Node nNode1_2 = nodeList1.item(k);
 							Element ele1 = (Element) nNode1_2;
-							System.out.println("term:" + ele1.getAttribute("term"));
-							System.out.println("polarity:" + ele1.getAttribute("polarity"));
+							//System.out.println("term:" + ele1.getAttribute("term"));
+							//System.out.println("polarity:" + ele1.getAttribute("polarity"));
 							bw.write(ele1.getAttribute("term"));
 							bw.write(":");
 							bw.write(ele1.getAttribute("polarity"));
 							bw.write(";");
-
+							bw.flush();
 						} 
 						//System.out.println("term:" + ele.getAttribute("term"));
 						//System.out.println("polarity:" + ele.getAttribute("polarity"));
@@ -94,13 +96,13 @@ public class ReadXML {
 			bw.write("\t");
 			// second annotater
 			Node nNode2 = nList2.item(temp);
- 			System.out.println("\nCurrent Element :" + nNode2.getNodeName());
+ 			//System.out.println("\nCurrent Element :" + nNode2.getNodeName());
  
 			if (nNode2.getNodeType() == Node.ELEMENT_NODE) {
  
 				Element eElement2 = (Element) nNode2;
  
-				System.out.println("sentence id : " + eElement.getAttribute("id"));
+				//System.out.println("sentence id : " + eElement2.getAttribute("id"));
 				///System.out.println("apectTerms : " + eElement.getElementsByTagName("firstname").item(0).getTextContent());
 				//System.out.println("Last Name : " + eElement.getElementsByTagName("lastname").item(0).getTextContent());
 				//System.out.println("Nick Name : " + eElement.getElementsByTagName("nickname").item(0).getTextContent());
@@ -115,13 +117,13 @@ public class ReadXML {
 						for(int k =0;k<nodeList1.getLength();k++){
 							Node nNode2_2 = nodeList1.item(k);
 							Element ele1 = (Element) nNode2;
-							System.out.println("term:" + ele1.getAttribute("term"));
-							System.out.println("polarity:" + ele1.getAttribute("polarity"));
+							//System.out.println("term:" + ele1.getAttribute("term"));
+							//System.out.println("polarity:" + ele1.getAttribute("polarity"));
 								bw.write(ele1.getAttribute("term"));
 							bw.write(":");
 							bw.write(ele1.getAttribute("polarity"));
 							bw.write(";");
-
+							bw.flush();
 						} 
 						//System.out.println("term:" + ele.getAttribute("term"));
 						//System.out.println("polarity:" + ele.getAttribute("polarity"));
@@ -136,9 +138,9 @@ public class ReadXML {
  
 			if (nNode3.getNodeType() == Node.ELEMENT_NODE) {
  
-				Element eElement = (Element) nNode3;
+				Element eElement3 = (Element) nNode3;
  
-				System.out.println("sentence id : " + eElement.getAttribute("id"));
+				System.out.println("sentence id : " + eElement3.getAttribute("id"));
 				///System.out.println("apectTerms : " + eElement.getElementsByTagName("firstname").item(0).getTextContent());
 				//System.out.println("Last Name : " + eElement.getElementsByTagName("lastname").item(0).getTextContent());
 				//System.out.println("Nick Name : " + eElement.getElementsByTagName("nickname").item(0).getTextContent());
@@ -159,13 +161,13 @@ public class ReadXML {
 							bw.write(":");
 							bw.write(ele1.getAttribute("polarity"));
 							bw.write(";");
-
+							bw.flush();
 						} 
 						//System.out.println("term:" + ele.getAttribute("term"));
 						//System.out.println("polarity:" + ele.getAttribute("polarity"));
 					}
 				}
- 				
+ 				bw.flush();
 			}
 			bw.write("\n");
 	
