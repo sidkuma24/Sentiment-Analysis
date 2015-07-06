@@ -22,19 +22,25 @@ public class localContext
 
 				while(!(currentLine = br.readLine()).equals("EOL")){
 					if(!currentLine.equals("null")){
-						br.mark(4);
+						br.mark(2*context+1);
 					}
-					//System.out.println("inner line:"+ currentLine);
-					String [] previous =  new String[2];
-					Sgtring [] next =  new String[2];
-					int pc =  0;
-					int nc = 0;
-					while(pc<context){
-				 		previous[pc]=br.readLine();
-				 		System.out.println(previous[pc]);
-				 		pc++:
-				 	}
-				 	while
+					int pc = 0;
+					String [] prev = new String[context];
+					String [] next =  new String[context];
+					String curToken = null;
+					while(pc< context){
+						prev[pc] = br.readLine();
+						pc++;
+					}
+					curToken = br.readline();
+					while(nc<context){
+						next[nc] = br.readline();
+						nc++;
+					}
+					if(!currentLine.equals("null")){
+						br.reset();
+					}
+				 	
 
 				
 				}
