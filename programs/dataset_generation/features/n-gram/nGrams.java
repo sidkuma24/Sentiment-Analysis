@@ -4,13 +4,16 @@ import java.io.*;
 
 public class nGrams
 {
+	public static int maxIndex = 0;
 	public static String nGrams(String token , int n)
 	{
 		String ngram = "";
 
 		int maxStartIndex = token.length() - n;
-
-		for(int i = 0; i <= maxStartIndex; i++){
+		if(maxStartIndex > maxIndex){
+			maxIndex = maxStartIndex;
+		}
+		for(int i = 0; i <= 4; i++){
 			ngram = ngram + token.substring(i,i+n) ;
 			ngram = ngram + "\t";
 		}
@@ -20,8 +23,8 @@ public class nGrams
 	}
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
-		String inputFile = "../data/all_tokens.txt";
-		String outputFile = "../data/nGrams.txt"; 
+		String inputFile = "mod_tokens.txt";
+		String outputFile = "../data/4Grams.txt"; 
 
 		try{
 			Scanner sc = new Scanner(new File(inputFile));
@@ -35,12 +38,12 @@ public class nGrams
 				String temp = buf;
 				while(!temp.equals("EOL")){
 					//System.out.println("Token inner: "+temp);
-					bw.write(temp + "\t");
-					bw.write(nGrams(temp,1));
-					bw.write(nGrams(temp,2));
-					bw.write(nGrams(temp,3));
+					//bw.write(temp + "\t");
 					bw.write(nGrams(temp,4));
-					bw.write(nGrams(temp,5));
+					//bw.write(nGrams(temp,2));
+					//bw.write(nGrams(temp,3));
+					//bw.write(nGrams(temp,4));
+					//bw.write(nGrams(temp,5));
 					bw.newLine();
 					bw.flush();
 					temp = sc.nextLine();
@@ -53,6 +56,7 @@ public class nGrams
 			bw.close();
 			fw.close();
 			sc.close();
+			System.out.println(maxIndex);
 
 		}catch(IOException exp){
 			exp.printStackTrace();
