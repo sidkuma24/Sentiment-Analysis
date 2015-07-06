@@ -4,47 +4,47 @@ import java.io.*;
 
 public class localContext
 {
-	public static String getContext(String token, int size)
-	{
-
-	}
-
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
 		String inputFile = "../data/all_tokens.txt";
 		String outputFile = "../data/local_context.txt"; 
 
 		try{
-			Scanner sc = new Scanner(new File(inputFile));
+			FileReader fr = new FileReader(inputFile);
+			BufferedReader br = new BufferedReader(fr);
 			FileWriter fw = new FileWriter(outputFile);
 			BufferedWriter bw = new BufferedWriter(fw); 
 			String buf = null;
+			String currentLine  = null;
+			int context = 2;
 
-			while(sc.hasNextLine())
-			{
-				buf = sc.nextLine();
-				String temp = buf;
-				while(!temp.equals("EOL")){
-					//System.out.println("Token inner: "+temp);
-					bw.write(temp);
-					bw.write("\t");
-					bw.write(nGrams(temp,1));
-					bw.write(nGrams(temp,2));
-					bw.write(nGrams(temp,3));
-					bw.write(nGrams(temp,4));
-					bw.write(nGrams(temp,5));
-					bw.newLine();
-					bw.flush();
-					temp = sc.nextLine();
+			while((currentLine =  br.readLine())!=null){
 
+				while(!(currentLine = br.readLine()).equals("EOL")){
+					if(!currentLine.equals("null")){
+						br.mark(4);
+					}
+					//System.out.println("inner line:"+ currentLine);
+					String [] previous =  new String[2];
+					Sgtring [] next =  new String[2];
+					int pc =  0;
+					int nc = 0;
+					while(pc<context){
+				 		previous[pc]=br.readLine();
+				 		System.out.println(previous[pc]);
+				 		pc++:
+				 	}
+				 	while
+
+				
 				}
-				bw.write(temp+ "\n");
-				bw.flush();
-				//System.out.println("Token outter: "+temp);
+				//System.out.println("outter line: "+ currentLine);
+				
 			}
+			br.close();
+			fr.close();
 			bw.close();
 			fw.close();
-			sc.close();
 
 
 		}catch(IOException exp){
