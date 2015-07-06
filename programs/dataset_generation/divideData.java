@@ -56,7 +56,8 @@ public class divideData{
 	    			for(int j=0;j<result.length;j++){
 						result[j].trim();
 					}
-					if(result[1].compareTo("0")==0){
+
+					if(result[result.length-1].compareTo("0")==0){
 						nNonAspectTerms++;
 					}else{
 						nAspectTerms++;
