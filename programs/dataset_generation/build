@@ -1,5 +1,5 @@
 #!/bin/sh
-javac parseText.java && java parseText Annotation_sid.xml 
+ 
 
 javac divideData.java && java divideData class.txt 0
 javac divideData.java && java divideData class.txt 1
