@@ -12,10 +12,10 @@ public class localContext
 	}
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
-		String inputFile = "../data/all_tokens.txt";
-		String outputFile = "../data/local_context.txt"; 
-		String tokenFile = "../data/all_tokens.txt";
-		int context = 2;
+		String inputFile = "../../../../data/sentiment/features/all_tokens.txt";
+		String outputFile = "../../../../data/sentiment/features/local_context.txt"; 
+		//String tokenFile = "../data/all_tokens.txt";
+		int context = Integer.parseInt(args[0]);
 		Scanner sc_main = new Scanner(new File(inputFile));
 		FileWriter fw = new FileWriter(outputFile);
 	    	BufferedWriter bw = new BufferedWriter(fw);
@@ -31,35 +31,42 @@ public class localContext
 					String temp = buf;
 					String [] sentenceBuf = new String[2000]; 
 					
-					while(!temp.equals("EOL")){
+					while(!temp.equals("")){
 						System.out.println("count = "+ count++ );
 						sentenceBuf[senLength] = temp;
 						senLength++;
 						//System.out.println("temp:"temp+ "senBuf:"sentenceBuf[senLength]);
 						temp = sc_main.nextLine();
 					}
-					String [] sentence = new String[senLength+6];
-					sentence[0] = "NULL";
-					sentence[1] = "NULL";
+					
+					String [] sentence = new String[senLength+context*3];
+					//sentence[0] = "NULL";
+					//sentence[1] = "NULL";
+					//for(int k=0;k<context;k++){
+					//	sentence[k] = "NULL";
+					//}
 					//sentence[senLength] = "NULL";
 					//sentence[senLength+1] = "NULL";
 					//sentence[senLength+2] = "NULL";
 					//sentence[senLength+3] = "NULL";
 					//sentence[senLength+4] = "NULL";
-					for(int j =2;j<=senLength+2;j++){
-						sentence[j] = sentenceBuf[j-2];
+					for(int j =context;j<=senLength+context;j++){
+						sentence[j] = sentenceBuf[j-context];
 					}
-					for(int i=2;i<senLength+2;i++){
+					for(int i=context;i<senLength+context;i++){
 						bw.write(sentence[i]);
-						bw.write("\t"+sentence[i-2]);
-						bw.write("\t"+sentence[i-1]);	
-						bw.write("\t"+sentence[i+1]);
-						bw.write("\t"+sentence[i+2]);
+						for(int n=context;n>=1;n--){
+							bw.write("\t"+sentence[i-n]);
+						}
+						for(int p=context;p>=1;p--){
+							bw.write("\t"+sentence[i+p]);
+						}
+				
 						bw.write("\n");
 						
 						bw.flush();	
 					}
-					bw.write("EOL\n");
+					bw.write("\n");
 					bw.flush();
 
 				}

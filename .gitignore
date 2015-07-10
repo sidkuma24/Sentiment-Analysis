@@ -53,7 +53,7 @@ ResearchPapers/
 modules.builtin
 Module.symvers
 *.dwo
-
+*.class
 
 #
 # Top-level generic files

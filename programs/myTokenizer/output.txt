@@ -1,0 +1,5186 @@
+iter:0
+बुधवार
+को
+लांच
+हुए
+इस
+फीचर
+का
+नाम
+सिक्योरिटी
+चैकअप
+है
+।
+iter:1
+फेसबुक
+का
+सिक्योरिटी
+चैकअप
+फीचर
+पॉपअप
+की
+तरह
+यूजर्स
+को
+दिखाइ
+देगा
+।
+outter if :फेसबुक
+outter if :पॉपअप की तरह
+outter if :का
+outter if :पॉपअप की तरह
+outter if :सिक्योरिटी
+outter if :पॉपअप की तरह
+outter if :चैकअप
+outter if :पॉपअप की तरह
+outter if :फीचर
+outter if :पॉपअप की तरह
+outter if :पॉपअप
+outter if :पॉपअप की तरह
+aspectTerm:पॉपअप की तरह
+sentence token:पॉपअप
+sentence token length :5
+aspectTerm length12
+remaining AT:की तरह
+remaining length:6
+remaining length6
+remaining length3
+outter if :यूजर्स
+outter if :पॉपअप की तरह
+outter if :को
+outter if :पॉपअप की तरह
+outter if :दिखाइ
+outter if :पॉपअप की तरह
+outter if :देगा
+outter if :पॉपअप की तरह
+outter if :।
+outter if :पॉपअप की तरह
+iter:2
+इस
+पॉपअप
+बॉक्स
+में
+पासवर्ड
+चेंज
+करने
+,
+लॉगइन
+अलर्ट्स
+चालू
+करने
+और
+मौजूदा
+फेसबुक
+सेशन
+को
+पूरी
+तरह
+से
+बंद
+करने
+के
+ऑप्शन
+मिलेंगे
+।
+iter:3
+आप
+यहीं
+से
+पुराने
+लॉगइन
+सेशंस
+को
+हमेशा
+के
+लिए
+हटा
+भी
+सकते
+हैं
+।
+outter if :आप
+outter if :लॉगइन सेशंस
+outter if :यहीं
+outter if :लॉगइन सेशंस
+outter if :से
+outter if :लॉगइन सेशंस
+outter if :पुराने
+outter if :लॉगइन सेशंस
+outter if :लॉगइन
+outter if :लॉगइन सेशंस
+aspectTerm:लॉगइन सेशंस
+sentence token:लॉगइन
+sentence token length :5
+aspectTerm length11
+remaining AT:सेशंस
+remaining length:5
+remaining length5
+outter if :को
+outter if :लॉगइन सेशंस
+outter if :हमेशा
+outter if :लॉगइन सेशंस
+outter if :के
+outter if :लॉगइन सेशंस
+outter if :लिए
+outter if :लॉगइन सेशंस
+outter if :हटा
+outter if :लॉगइन सेशंस
+outter if :भी
+outter if :लॉगइन सेशंस
+outter if :सकते
+outter if :लॉगइन सेशंस
+outter if :हैं
+outter if :लॉगइन सेशंस
+outter if :।
+outter if :लॉगइन सेशंस
+iter:4
+ऐसे
+में
+कई
+बार
+ऐसा
+होता
+है
+कि
+आपका
+लॉगइन
+ओपन
+ही
+रह
+जाता
+है
+और
+कोई
+भी
+इसका
+दुरुपयोग
+कर
+सकता
+।
+iter:5
+अब
+नए
+फीचर
+से
+इस
+तरह
+की
+गलतियां
+नहीं
+होंगी
+और
+अकाउंट
+को
+हैक
+करना
+बेहद
+मुश्किल
+हो
+जाएगा
+।
+iter:6
+एंड्रॉयड
+4.4.4
+से
+ऊपर
+के
+वर्जन
+पर
+करता
+है
+काम
+।
+outter if :4.4.4
+outter if :वर्जन
+outter if :से
+outter if :वर्जन
+outter if :ऊपर
+outter if :वर्जन
+outter if :के
+outter if :वर्जन
+outter if :वर्जन
+outter if :वर्जन
+aspectTerm:वर्जन
+sentence token:वर्जन
+sentence token length :5
+aspectTerm length5
+remaining AT:
+remaining length:0
+outter if :पर
+outter if :वर्जन
+outter if :करता
+outter if :वर्जन
+outter if :है
+outter if :वर्जन
+outter if :काम
+outter if :वर्जन
+outter if :।
+outter if :वर्जन
+iter:7
+Twitter
+periscope
+App
+एंड्रॉयड
+4.4.4
+किटकैट
+या
+उससे
+ऊपर
+के
+वर्जन
+पर
+काम
+करता
+है
+।
+outter if :App
+outter if :वर्जन
+outter if :4.4.4
+outter if :वर्जन
+outter if :या
+outter if :वर्जन
+outter if :उससे
+outter if :वर्जन
+outter if :ऊपर
+outter if :वर्जन
+outter if :के
+outter if :वर्जन
+outter if :वर्जन
+outter if :वर्जन
+aspectTerm:वर्जन
+sentence token:वर्जन
+sentence token length :5
+aspectTerm length5
+remaining AT:
+remaining length:0
+outter if :पर
+outter if :वर्जन
+outter if :काम
+outter if :वर्जन
+outter if :करता
+outter if :वर्जन
+outter if :है
+outter if :वर्जन
+outter if :।
+outter if :वर्जन
+iter:8
+कंपनी
+के
+मुताबिक
+,
+एंड्रॉयड
+के
+लिए
+आए
+पेरिस्कोप
+में
+सभी
+कोर
+फीचर्स
+हैं
+जो
+यूजर्स
+द्वारा
+पसंद
+किये
+गए
+हैं
+।
+outter if :कंपनी
+outter if :फीचर्स
+outter if :के
+outter if :फीचर्स
+outter if :,
+outter if :फीचर्स
+outter if :के
+outter if :फीचर्स
+outter if :लिए
+outter if :फीचर्स
+outter if :आए
+outter if :फीचर्स
+outter if :में
+outter if :फीचर्स
+outter if :सभी
+outter if :फीचर्स
+outter if :कोर
+outter if :फीचर्स
+outter if :फीचर्स
+outter if :फीचर्स
+aspectTerm:फीचर्स
+sentence token:फीचर्स
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :हैं
+outter if :फीचर्स
+outter if :जो
+outter if :फीचर्स
+outter if :यूजर्स
+outter if :फीचर्स
+outter if :द्वारा
+outter if :फीचर्स
+outter if :पसंद
+outter if :फीचर्स
+outter if :किये
+outter if :फीचर्स
+outter if :गए
+outter if :फीचर्स
+outter if :हैं
+outter if :फीचर्स
+outter if :।
+outter if :फीचर्स
+iter:9
+पेरिस्कोप
+के
+एंड्रॉयड
+वर्जन
+में
+कुछ
+ऎसे
+यूनिक
+फीचर्स
+भी
+हैं
+दिए
+गए
+हैं
+जो
+आईओएस
+में
+नहीं
+दिए
+गए
+थे
+।
+outter if :पेरिस्कोप
+outter if :एंड्रॉयड वर्जन
+outter if :के
+outter if :एंड्रॉयड वर्जन
+outter if :एंड्रॉयड
+outter if :एंड्रॉयड वर्जन
+aspectTerm:एंड्रॉयड वर्जन
+sentence token:एंड्रॉयड
+sentence token length :8
+aspectTerm length14
+remaining AT:वर्जन
+remaining length:5
+remaining length5
+outter if :में
+outter if :एंड्रॉयड वर्जन
+outter if :कुछ
+outter if :एंड्रॉयड वर्जन
+outter if :ऎसे
+outter if :एंड्रॉयड वर्जन
+outter if :यूनिक
+outter if :एंड्रॉयड वर्जन
+outter if :फीचर्स
+outter if :एंड्रॉयड वर्जन
+outter if :भी
+outter if :एंड्रॉयड वर्जन
+outter if :हैं
+outter if :एंड्रॉयड वर्जन
+outter if :दिए
+outter if :एंड्रॉयड वर्जन
+outter if :गए
+outter if :एंड्रॉयड वर्जन
+outter if :हैं
+outter if :एंड्रॉयड वर्जन
+outter if :जो
+outter if :एंड्रॉयड वर्जन
+outter if :आईओएस
+outter if :एंड्रॉयड वर्जन
+outter if :में
+outter if :एंड्रॉयड वर्जन
+outter if :नहीं
+outter if :एंड्रॉयड वर्जन
+outter if :दिए
+outter if :एंड्रॉयड वर्जन
+outter if :गए
+outter if :एंड्रॉयड वर्जन
+outter if :थे
+outter if :एंड्रॉयड वर्जन
+outter if :।
+outter if :एंड्रॉयड वर्जन
+iter:10
+इसमें
+मेटेरियल
+इन्स्पायर्ड
+डिजाइन
+है
+जो
+एंड्रॉयड
+यूजर्स
+को
+मॉडर्न
+लगेगा
+।
+outter if :इसमें
+outter if :डिजाइन
+outter if :डिजाइन
+outter if :डिजाइन
+aspectTerm:डिजाइन
+sentence token:डिजाइन
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :है
+outter if :डिजाइन
+outter if :जो
+outter if :डिजाइन
+outter if :यूजर्स
+outter if :डिजाइन
+outter if :को
+outter if :डिजाइन
+outter if :मॉडर्न
+outter if :डिजाइन
+outter if :लगेगा
+outter if :डिजाइन
+outter if :।
+outter if :डिजाइन
+iter:11
+पेरिस्कोप
+एप
+यूजर्स
+भी
+अडिशनल
+पुश
+नोटिफिकेशन
+सेटिंग्स
+अपने
+हिसाब
+से
+सेट
+कर
+सकते
+हैं
+जैसे
+फर्स्ट
+टाइम
+ब्रॉडकास्ट
+नोटिफिकेशन्स
+और
+शेयर
+नोटिफिकेशन्स
+।
+outter if :पेरिस्कोप
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :एप
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :यूजर्स
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :भी
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :अडिशनल
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :पुश
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :नोटिफिकेशन
+outter if :नोटिफिकेशन सेटिंग्स
+aspectTerm:नोटिफिकेशन सेटिंग्स
+sentence token:नोटिफिकेशन
+sentence token length :10
+aspectTerm length19
+remaining AT:सेटिंग्स
+remaining length:8
+remaining length8
+outter if :अपने
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :हिसाब
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :से
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :सेट
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :कर
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :सकते
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :हैं
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :जैसे
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :फर्स्ट
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :टाइम
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :ब्रॉडकास्ट
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :नोटिफिकेशन्स
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :और
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :शेयर
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :नोटिफिकेशन्स
+outter if :नोटिफिकेशन सेटिंग्स
+outter if :।
+outter if :नोटिफिकेशन सेटिंग्स
+iter:12
+पेरिस्कोप
+एप
+में
+रिज्यूम
+नोटिफिकेशन
+फीचर
+दिया
+गया
+है
+जो
+बहुत
+ही
+खास
+है
+।
+outter if :पेरिस्कोप
+outter if :रिज्यूम नोटिफिकेशन
+outter if :एप
+outter if :रिज्यूम नोटिफिकेशन
+outter if :में
+outter if :रिज्यूम नोटिफिकेशन
+outter if :रिज्यूम
+outter if :रिज्यूम नोटिफिकेशन
+aspectTerm:रिज्यूम नोटिफिकेशन
+sentence token:रिज्यूम
+sentence token length :7
+aspectTerm length18
+remaining AT:नोटिफिकेशन
+remaining length:10
+remaining length10
+outter if :फीचर
+outter if :रिज्यूम नोटिफिकेशन
+outter if :दिया
+outter if :रिज्यूम नोटिफिकेशन
+outter if :गया
+outter if :रिज्यूम नोटिफिकेशन
+outter if :है
+outter if :रिज्यूम नोटिफिकेशन
+outter if :जो
+outter if :रिज्यूम नोटिफिकेशन
+outter if :बहुत
+outter if :रिज्यूम नोटिफिकेशन
+outter if :ही
+outter if :रिज्यूम नोटिफिकेशन
+outter if :खास
+outter if :रिज्यूम नोटिफिकेशन
+outter if :है
+outter if :रिज्यूम नोटिफिकेशन
+outter if :।
+outter if :रिज्यूम नोटिफिकेशन
+iter:13
+इस
+फीचर
+के
+तहत
+यूजर
+ब्रॉडकास्ट
+के
+जरिए
+देखे
+जाने
+वाले
+वीडियो
+रूकने
+पर
+फिर
+वहीं
+से
+देा
+सकते
+हैं
+जहां
+वो
+रूका
+था
+।
+outter if :इस
+outter if :वीडियो
+outter if :फीचर
+outter if :वीडियो
+outter if :के
+outter if :वीडियो
+outter if :तहत
+outter if :वीडियो
+outter if :यूजर
+outter if :वीडियो
+outter if :के
+outter if :वीडियो
+outter if :जरिए
+outter if :वीडियो
+outter if :देखे
+outter if :वीडियो
+outter if :जाने
+outter if :वीडियो
+outter if :वाले
+outter if :वीडियो
+outter if :वीडियो
+outter if :वीडियो
+aspectTerm:वीडियो
+sentence token:वीडियो
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :रूकने
+outter if :वीडियो
+outter if :पर
+outter if :वीडियो
+outter if :फिर
+outter if :वीडियो
+outter if :वहीं
+outter if :वीडियो
+outter if :से
+outter if :वीडियो
+outter if :देा
+outter if :वीडियो
+outter if :सकते
+outter if :वीडियो
+outter if :हैं
+outter if :वीडियो
+outter if :जहां
+outter if :वीडियो
+outter if :वो
+outter if :वीडियो
+outter if :रूका
+outter if :वीडियो
+outter if :था
+outter if :वीडियो
+outter if :।
+outter if :वीडियो
+iter:14
+इसके
+अलावा
+इसके
+दूसरे
+फीचर्स
+में
+बिना
+ब्रॉडकास्टर
+के
+फाइल
+अपलोड
+किये
+भी
+रिप्पले
+सेव
+हो
+जाते
+हैं
+।
+outter if :इसके
+outter if :ब्रॉडकास्टर
+outter if :अलावा
+outter if :ब्रॉडकास्टर
+outter if :इसके
+outter if :ब्रॉडकास्टर
+outter if :दूसरे
+outter if :ब्रॉडकास्टर
+outter if :फीचर्स
+outter if :ब्रॉडकास्टर
+outter if :में
+outter if :ब्रॉडकास्टर
+outter if :बिना
+outter if :ब्रॉडकास्टर
+outter if :ब्रॉडकास्टर
+outter if :ब्रॉडकास्टर
+aspectTerm:ब्रॉडकास्टर
+sentence token:ब्रॉडकास्टर
+sentence token length :11
+aspectTerm length11
+remaining AT:
+remaining length:0
+outter if :के
+outter if :ब्रॉडकास्टर
+outter if :फाइल
+outter if :ब्रॉडकास्टर
+outter if :अपलोड
+outter if :ब्रॉडकास्टर
+outter if :किये
+outter if :ब्रॉडकास्टर
+outter if :भी
+outter if :ब्रॉडकास्टर
+outter if :रिप्पले
+outter if :ब्रॉडकास्टर
+outter if :सेव
+outter if :ब्रॉडकास्टर
+outter if :हो
+outter if :ब्रॉडकास्टर
+outter if :जाते
+outter if :ब्रॉडकास्टर
+outter if :हैं
+outter if :ब्रॉडकास्टर
+outter if :।
+outter if :ब्रॉडकास्टर
+iter:15
+इस
+फीचर
+के
+तहत
+ब्रॉडकास्टर
+का
+टाइम
+और
+मोबाइल
+डेटा
+दोनों
+की
+बचत
+होती
+है
+।
+outter if :इस
+outter if :ब्रॉडकास्टर
+outter if :फीचर
+outter if :ब्रॉडकास्टर
+outter if :के
+outter if :ब्रॉडकास्टर
+outter if :तहत
+outter if :ब्रॉडकास्टर
+outter if :ब्रॉडकास्टर
+outter if :ब्रॉडकास्टर
+aspectTerm:ब्रॉडकास्टर
+sentence token:ब्रॉडकास्टर
+sentence token length :11
+aspectTerm length11
+remaining AT:
+remaining length:0
+outter if :का
+outter if :ब्रॉडकास्टर
+outter if :टाइम
+outter if :ब्रॉडकास्टर
+outter if :और
+outter if :ब्रॉडकास्टर
+outter if :मोबाइल
+outter if :ब्रॉडकास्टर
+outter if :डेटा
+outter if :ब्रॉडकास्टर
+outter if :दोनों
+outter if :ब्रॉडकास्टर
+outter if :की
+outter if :ब्रॉडकास्टर
+outter if :बचत
+outter if :ब्रॉडकास्टर
+outter if :होती
+outter if :ब्रॉडकास्टर
+outter if :है
+outter if :ब्रॉडकास्टर
+outter if :।
+outter if :ब्रॉडकास्टर
+iter:16
+आपके
+स्मार्टफोन
+में
+ज्यादातर
+एप
+ऎसे
+ही
+हैं
+जिनसे
+आपको
+अपनी
+जेब
+का
+पैसा
+खर्च
+कर
+ही
+कुछ
+काम
+लिया
+जा
+सकता
+है
+,
+लेकिन
+एक
+ऎसी
+एप
+भी
+है
+जिसमें
+आपको
+ना
+केवल
+फ्री
+में
+रिचार्ज
+मिल
+सकता
+है
+बल्कि
+डिस्काउंट
+कूपन
+भी
+प्राप्त
+किए
+जा
+सकते
+हैं
+।
+outter if :आपके
+outter if :खर्च
+outter if :में
+outter if :खर्च
+outter if :एप
+outter if :खर्च
+outter if :ऎसे
+outter if :खर्च
+outter if :ही
+outter if :खर्च
+outter if :हैं
+outter if :खर्च
+outter if :आपको
+outter if :खर्च
+outter if :अपनी
+outter if :खर्च
+outter if :जेब
+outter if :खर्च
+outter if :का
+outter if :खर्च
+outter if :पैसा
+outter if :खर्च
+outter if :खर्च
+outter if :खर्च
+aspectTerm:खर्च
+sentence token:खर्च
+sentence token length :4
+aspectTerm length4
+remaining AT:
+remaining length:0
+outter if :कर
+outter if :खर्च
+outter if :ही
+outter if :खर्च
+outter if :कुछ
+outter if :खर्च
+outter if :काम
+outter if :खर्च
+outter if :लिया
+outter if :खर्च
+outter if :जा
+outter if :खर्च
+outter if :सकता
+outter if :खर्च
+outter if :है
+outter if :खर्च
+outter if :,
+outter if :खर्च
+outter if :एक
+outter if :खर्च
+outter if :ऎसी
+outter if :खर्च
+outter if :एप
+outter if :खर्च
+outter if :भी
+outter if :खर्च
+outter if :है
+outter if :खर्च
+outter if :आपको
+outter if :खर्च
+outter if :ना
+outter if :खर्च
+outter if :केवल
+outter if :खर्च
+outter if :फ्री
+outter if :खर्च
+outter if :में
+outter if :खर्च
+outter if :मिल
+outter if :खर्च
+outter if :सकता
+outter if :खर्च
+outter if :है
+outter if :खर्च
+outter if :कूपन
+outter if :खर्च
+outter if :भी
+outter if :खर्च
+outter if :किए
+outter if :खर्च
+outter if :जा
+outter if :खर्च
+outter if :सकते
+outter if :खर्च
+outter if :हैं
+outter if :खर्च
+outter if :।
+outter if :खर्च
+iter:17
+गूगल
+प्ले
+स्टोर
+पर
+इस
+एप
+को
+फ्री
+में
+अपने
+मोबाइल
+में
+डाउनलोड
+किया
+जा
+सकता
+है
+।
+iter:18
+स्लिक
+इंटरफेस
+है
+।
+outter if :स्लिक
+outter if :इंटरफेस
+outter if :इंटरफेस
+outter if :इंटरफेस
+aspectTerm:इंटरफेस
+sentence token:इंटरफेस
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :है
+outter if :इंटरफेस
+outter if :।
+outter if :इंटरफेस
+iter:19
+मैसेंजर
+अब
+ब्लैकबेरी
+स्मार्टफोन
+तक
+ही
+सीमित
+नहीं
+है
+।
+outter if :मैसेंजर
+outter if :मैसेंजर
+aspectTerm:मैसेंजर
+sentence token:मैसेंजर
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :अब
+outter if :मैसेंजर
+outter if :तक
+outter if :मैसेंजर
+outter if :ही
+outter if :मैसेंजर
+outter if :सीमित
+outter if :मैसेंजर
+outter if :नहीं
+outter if :मैसेंजर
+outter if :है
+outter if :मैसेंजर
+outter if :।
+outter if :मैसेंजर
+iter:20
+3जी
+पर
+मैसेज
+डिलीवरी
+व्हाट्सप्प
+और
+आर्इमैसेज
+की
+तुलना
+में
+बहुत
+तेज
+है
+।
+outter if :3जी
+outter if :मैसेज डिलीवरी
+outter if :पर
+outter if :मैसेज डिलीवरी
+outter if :मैसेज
+outter if :मैसेज डिलीवरी
+aspectTerm:मैसेज डिलीवरी
+sentence token:मैसेज
+sentence token length :5
+aspectTerm length13
+remaining AT:डिलीवरी
+remaining length:7
+remaining length7
+outter if :व्हाट्सप्प
+outter if :मैसेज डिलीवरी
+outter if :और
+outter if :मैसेज डिलीवरी
+outter if :आर्इमैसेज
+outter if :मैसेज डिलीवरी
+outter if :की
+outter if :मैसेज डिलीवरी
+outter if :तुलना
+outter if :मैसेज डिलीवरी
+outter if :में
+outter if :मैसेज डिलीवरी
+outter if :बहुत
+outter if :मैसेज डिलीवरी
+outter if :तेज
+outter if :मैसेज डिलीवरी
+outter if :है
+outter if :मैसेज डिलीवरी
+outter if :।
+outter if :मैसेज डिलीवरी
+iter:21
+व्हाट्सप्प
+जैसा
+फीचर
+है
+।
+outter if :जैसा
+outter if :फीचर
+outter if :फीचर
+outter if :फीचर
+aspectTerm:फीचर
+sentence token:फीचर
+sentence token length :4
+aspectTerm length4
+remaining AT:
+remaining length:0
+outter if :है
+outter if :फीचर
+outter if :।
+outter if :फीचर
+iter:22
+ऑटो
+करे​क्टिंग
+के
+दौरान
+स्टॉक
+आर्इओएस
+कीबोर्ड
+अलग
+तरह
+से
+काम
+करता
+है
+।
+outter if :ऑटो
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :करे​क्टिंग
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :के
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :दौरान
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :स्टॉक
+outter if :स्टॉक आर्इओएस कीबोर्ड
+aspectTerm:स्टॉक आर्इओएस कीबोर्ड
+sentence token:स्टॉक
+sentence token length :5
+aspectTerm length21
+remaining AT:आर्इओएस कीबोर्ड
+remaining length:15
+remaining length15
+remaining length7
+outter if :अलग
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :तरह
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :से
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :काम
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :करता
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :है
+outter if :स्टॉक आर्इओएस कीबोर्ड
+outter if :।
+outter if :स्टॉक आर्इओएस कीबोर्ड
+iter:23
+प्रतिस्पर्धियों
+पर
+भारी
+पड़ने
+के
+लिए
+वॉयस
+और
+वीडियो
+कॉल्स
+की
+जरूरत
+है
+।
+outter if :प्रतिस्पर्धियों
+outter if :वॉयस और वीडियो कॉल्स
+outter if :पर
+outter if :वॉयस और वीडियो कॉल्स
+outter if :भारी
+outter if :वॉयस और वीडियो कॉल्स
+outter if :पड़ने
+outter if :वॉयस और वीडियो कॉल्स
+outter if :के
+outter if :वॉयस और वीडियो कॉल्स
+outter if :लिए
+outter if :वॉयस और वीडियो कॉल्स
+outter if :वॉयस
+outter if :वॉयस और वीडियो कॉल्स
+aspectTerm:वॉयस और वीडियो कॉल्स
+sentence token:वॉयस
+sentence token length :4
+aspectTerm length20
+remaining AT:और वीडियो कॉल्स
+remaining length:15
+remaining length15
+remaining length12
+remaining length5
+outter if :की
+outter if :वॉयस और वीडियो कॉल्स
+outter if :जरूरत
+outter if :वॉयस और वीडियो कॉल्स
+outter if :है
+outter if :वॉयस और वीडियो कॉल्स
+outter if :।
+outter if :वॉयस और वीडियो कॉल्स
+iter:24
+यह
+किसी
+भी
+साधन
+से
+प्राप्त
+एक
+क्रांतिकारी
+मैंसेंजर
+नहीं
+,
+लेकिन
+मैसेंजर
+क्लाएंट
+से
+भरपूर
+एक
+इको
+सिस्टम
+में
+,
+यह
+सबसे
+स्लिकेस्ट
+ऑप्शन्स
+में
+से
+एक
+है
+।
+outter if :यह
+outter if :मैसेंजर
+outter if :किसी
+outter if :मैसेंजर
+outter if :भी
+outter if :मैसेंजर
+outter if :साधन
+outter if :मैसेंजर
+outter if :से
+outter if :मैसेंजर
+outter if :प्राप्त
+outter if :मैसेंजर
+outter if :एक
+outter if :मैसेंजर
+outter if :नहीं
+outter if :मैसेंजर
+outter if :,
+outter if :मैसेंजर
+outter if :लेकिन
+outter if :मैसेंजर
+outter if :मैसेंजर
+outter if :मैसेंजर
+aspectTerm:मैसेंजर
+sentence token:मैसेंजर
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :क्लाएंट
+outter if :मैसेंजर
+outter if :से
+outter if :मैसेंजर
+outter if :भरपूर
+outter if :मैसेंजर
+outter if :एक
+outter if :मैसेंजर
+outter if :इको
+outter if :मैसेंजर
+outter if :सिस्टम
+outter if :मैसेंजर
+outter if :में
+outter if :मैसेंजर
+outter if :,
+outter if :मैसेंजर
+outter if :यह
+outter if :मैसेंजर
+outter if :सबसे
+outter if :मैसेंजर
+outter if :ऑप्शन्स
+outter if :मैसेंजर
+outter if :में
+outter if :मैसेंजर
+outter if :से
+outter if :मैसेंजर
+outter if :एक
+outter if :मैसेंजर
+outter if :है
+outter if :मैसेंजर
+outter if :।
+outter if :मैसेंजर
+iter:25
+यह
+शायद
+सबसे
+अच्छी
+बात
+है
+जो
+उन
+सभी
+यूजर्स
+के
+साथ
+हो
+सकती
+है
+जो
+प्लेटफॉर्म
+बदलना
+चाहते
+हैं
+लेकिन
+बीबीएम
+फ्रेंड्स
+-
+लिस्ट
+उन्हें
+ऐसा
+करने
+से
+रोकती
+है
+।
+iter:26
+चूंकि
+इसका
+गोइंग
+अच्छा
+था
+,
+अत
+:
+मैंने
+एप्प्ल
+एप्प
+स्टोर
+से
+बीबीएम
+को
+डाउनलोड
+कर
+लिया
+।
+outter if :चूंकि
+outter if :बीबीएम
+outter if :इसका
+outter if :बीबीएम
+outter if :गोइंग
+outter if :बीबीएम
+outter if :अच्छा
+outter if :बीबीएम
+outter if :था
+outter if :बीबीएम
+outter if :,
+outter if :बीबीएम
+outter if :अत
+outter if :बीबीएम
+outter if ::
+outter if :बीबीएम
+outter if :मैंने
+outter if :बीबीएम
+outter if :एप्प्ल
+outter if :बीबीएम
+outter if :एप्प
+outter if :बीबीएम
+outter if :स्टोर
+outter if :बीबीएम
+outter if :से
+outter if :बीबीएम
+outter if :बीबीएम
+outter if :बीबीएम
+aspectTerm:बीबीएम
+sentence token:बीबीएम
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :को
+outter if :बीबीएम
+outter if :कर
+outter if :बीबीएम
+outter if :लिया
+outter if :बीबीएम
+outter if :।
+outter if :बीबीएम
+iter:27
+जिस
+भी
+व्यक्ति
+ने
+एक
+ओएस
+के
+रूप
+में
+ब्लैकबेरी
+10
+का
+अनुभव
+नहीं
+किया
+है
+,
+इस
+पर
+बीबीएम
+का
+उपयोग
+किया
+है
+,
+यह
+यूआर्इ
+ऐसा
+है
+जिसके
+उपयोग
+के
+बारे
+में
+आपको
+समझने
+की
+जरूरत
+है
+।
+outter if :जिस
+outter if :यूआर्इ
+outter if :भी
+outter if :यूआर्इ
+outter if :ने
+outter if :यूआर्इ
+outter if :एक
+outter if :यूआर्इ
+outter if :ओएस
+outter if :यूआर्इ
+outter if :के
+outter if :यूआर्इ
+outter if :रूप
+outter if :यूआर्इ
+outter if :में
+outter if :यूआर्इ
+outter if :10
+outter if :यूआर्इ
+outter if :का
+outter if :यूआर्इ
+outter if :अनुभव
+outter if :यूआर्इ
+outter if :नहीं
+outter if :यूआर्इ
+outter if :किया
+outter if :यूआर्इ
+outter if :है
+outter if :यूआर्इ
+outter if :,
+outter if :यूआर्इ
+outter if :इस
+outter if :यूआर्इ
+outter if :पर
+outter if :यूआर्इ
+outter if :बीबीएम
+outter if :यूआर्इ
+outter if :का
+outter if :यूआर्इ
+outter if :उपयोग
+outter if :यूआर्इ
+outter if :किया
+outter if :यूआर्इ
+outter if :है
+outter if :यूआर्इ
+outter if :,
+outter if :यूआर्इ
+outter if :यह
+outter if :यूआर्इ
+outter if :यूआर्इ
+outter if :यूआर्इ
+aspectTerm:यूआर्इ
+sentence token:यूआर्इ
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :ऐसा
+outter if :यूआर्इ
+outter if :है
+outter if :यूआर्इ
+outter if :जिसके
+outter if :यूआर्इ
+outter if :उपयोग
+outter if :यूआर्इ
+outter if :के
+outter if :यूआर्इ
+outter if :बारे
+outter if :यूआर्इ
+outter if :में
+outter if :यूआर्इ
+outter if :आपको
+outter if :यूआर्इ
+outter if :समझने
+outter if :यूआर्इ
+outter if :की
+outter if :यूआर्इ
+outter if :जरूरत
+outter if :यूआर्इ
+outter if :है
+outter if :यूआर्इ
+outter if :।
+outter if :यूआर्इ
+iter:28
+हालांकि
+इसके
+अधिकतर
+भाग
+सही
+स्टैंडर्ड
+रूप
+में
+दिखते
+हैं
+,
+फिर
+भी
+पूरे
+एप्प
+में
+साइड
+स्वाइप्स
+,
+एक्सेस
+और
+कार्यशैली
+का
+एक
+अन्य
+स्वरूप
+बढ़ा
+देते
+हैं
+।
+iter:29
+स्क्रीन
+के
+नीचे
+दिया
+गया
+टैब
+आपको
+चैट्स
+,
+कॉन्टैक्ट्स
+और
+ग्रुप्स
+के
+बीच
+नेविगेट
+करने
+की
+सुविधा
+देता
+है
+।
+outter if :स्क्रीन
+outter if :स्क्रीन
+aspectTerm:स्क्रीन
+sentence token:स्क्रीन
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :के
+outter if :स्क्रीन
+outter if :नीचे
+outter if :स्क्रीन
+outter if :दिया
+outter if :स्क्रीन
+outter if :गया
+outter if :स्क्रीन
+outter if :टैब
+outter if :स्क्रीन
+outter if :आपको
+outter if :स्क्रीन
+outter if :चैट्स
+outter if :स्क्रीन
+outter if :,
+outter if :स्क्रीन
+outter if :और
+outter if :स्क्रीन
+outter if :ग्रुप्स
+outter if :स्क्रीन
+outter if :के
+outter if :स्क्रीन
+outter if :बीच
+outter if :स्क्रीन
+outter if :नेविगेट
+outter if :स्क्रीन
+outter if :करने
+outter if :स्क्रीन
+outter if :की
+outter if :स्क्रीन
+outter if :सुविधा
+outter if :स्क्रीन
+outter if :देता
+outter if :स्क्रीन
+outter if :है
+outter if :स्क्रीन
+outter if :।
+outter if :स्क्रीन
+iter:30
+पूरे
+एप्प
+में
+,
+बायें
+और
+दायें
+हाथ
+पर
+स्थित
+साइड
+मेन्यू
+से
+अधिक
+से
+अधिक
+ऑप्शन्स
+को
+एक्सेस
+किया
+जा
+सकता
+है
+जिसे
+सामने
+खीचा
+और
+पीछे
+ढकेला
+भी
+जा
+सकता
+है
+।
+outter if :पूरे
+outter if :साइड मेन्यू
+outter if :एप्प
+outter if :साइड मेन्यू
+outter if :में
+outter if :साइड मेन्यू
+outter if :,
+outter if :साइड मेन्यू
+outter if :बायें
+outter if :साइड मेन्यू
+outter if :और
+outter if :साइड मेन्यू
+outter if :दायें
+outter if :साइड मेन्यू
+outter if :हाथ
+outter if :साइड मेन्यू
+outter if :पर
+outter if :साइड मेन्यू
+outter if :स्थित
+outter if :साइड मेन्यू
+outter if :साइड
+outter if :साइड मेन्यू
+aspectTerm:साइड मेन्यू
+sentence token:साइड
+sentence token length :4
+aspectTerm length11
+remaining AT:मेन्यू
+remaining length:6
+remaining length6
+outter if :से
+outter if :साइड मेन्यू
+outter if :अधिक
+outter if :साइड मेन्यू
+outter if :से
+outter if :साइड मेन्यू
+outter if :अधिक
+outter if :साइड मेन्यू
+outter if :ऑप्शन्स
+outter if :साइड मेन्यू
+outter if :को
+outter if :साइड मेन्यू
+outter if :एक्सेस
+outter if :साइड मेन्यू
+outter if :किया
+outter if :साइड मेन्यू
+outter if :जा
+outter if :साइड मेन्यू
+outter if :सकता
+outter if :साइड मेन्यू
+outter if :है
+outter if :साइड मेन्यू
+outter if :जिसे
+outter if :साइड मेन्यू
+outter if :सामने
+outter if :साइड मेन्यू
+outter if :खीचा
+outter if :साइड मेन्यू
+outter if :और
+outter if :साइड मेन्यू
+outter if :पीछे
+outter if :साइड मेन्यू
+outter if :ढकेला
+outter if :साइड मेन्यू
+outter if :भी
+outter if :साइड मेन्यू
+outter if :जा
+outter if :साइड मेन्यू
+outter if :सकता
+outter if :साइड मेन्यू
+outter if :है
+outter if :साइड मेन्यू
+outter if :।
+outter if :साइड मेन्यू
+iter:31
+आपकी
+रूचि
+बनाये
+रखने
+के
+लिए
+,
+इस
+एप्प
+में
+काले
+,
+आसमानी
+,
+नीले
+और
+सफेद
+रंग
+के
+मिश्रण
+से
+युक्त
+पर्याप्त
+विजुअल
+एलीमेंट्स
+उपलब्ध
+हैं
+।
+outter if :आपकी
+outter if :विजुअल एलीमेंट्स
+outter if :रूचि
+outter if :विजुअल एलीमेंट्स
+outter if :बनाये
+outter if :विजुअल एलीमेंट्स
+outter if :रखने
+outter if :विजुअल एलीमेंट्स
+outter if :के
+outter if :विजुअल एलीमेंट्स
+outter if :लिए
+outter if :विजुअल एलीमेंट्स
+outter if :,
+outter if :विजुअल एलीमेंट्स
+outter if :इस
+outter if :विजुअल एलीमेंट्स
+outter if :एप्प
+outter if :विजुअल एलीमेंट्स
+outter if :में
+outter if :विजुअल एलीमेंट्स
+outter if :काले
+outter if :विजुअल एलीमेंट्स
+outter if :,
+outter if :विजुअल एलीमेंट्स
+outter if :आसमानी
+outter if :विजुअल एलीमेंट्स
+outter if :,
+outter if :विजुअल एलीमेंट्स
+outter if :नीले
+outter if :विजुअल एलीमेंट्स
+outter if :और
+outter if :विजुअल एलीमेंट्स
+outter if :सफेद
+outter if :विजुअल एलीमेंट्स
+outter if :रंग
+outter if :विजुअल एलीमेंट्स
+outter if :के
+outter if :विजुअल एलीमेंट्स
+outter if :मिश्रण
+outter if :विजुअल एलीमेंट्स
+outter if :से
+outter if :विजुअल एलीमेंट्स
+outter if :युक्त
+outter if :विजुअल एलीमेंट्स
+outter if :पर्याप्त
+outter if :विजुअल एलीमेंट्स
+outter if :विजुअल
+outter if :विजुअल एलीमेंट्स
+aspectTerm:विजुअल एलीमेंट्स
+sentence token:विजुअल
+sentence token length :6
+aspectTerm length16
+remaining AT:एलीमेंट्स
+remaining length:9
+remaining length9
+outter if :उपलब्ध
+outter if :विजुअल एलीमेंट्स
+outter if :हैं
+outter if :विजुअल एलीमेंट्स
+outter if :।
+outter if :विजुअल एलीमेंट्स
+iter:32
+कॉन्टैक्ट
+लिस्ट
+या
+तो
+छोटे
+कॉन्टैक्ट
+इमेज
+के
+साथ
+हो
+सकती
+है
+या
+आपके
+कॉन्टैक्ट
+में
+प्रोफाइल
+पिक्चर
+के
+रूप
+में
+स्थित
+हाइलाइट
+इमेज
+के
+साथ
+थम्बनेल
+के
+रूप
+में
+हो
+सकती
+है
+।
+iter:33
+इसमें
+बदलाव
+के
+लिए
+कोर्इ
+क्विक
+टोग्गल
+नहीं
+है
+,
+और
+उसे
+बदलने
+के
+लिए
+आपको
+फुल
+सेटिंग
+मेन्यू
+में
+जाना
+होगा
+।
+outter if :इसमें
+outter if :क्विक टोग्गल
+outter if :बदलाव
+outter if :क्विक टोग्गल
+outter if :के
+outter if :क्विक टोग्गल
+outter if :लिए
+outter if :क्विक टोग्गल
+outter if :कोर्इ
+outter if :क्विक टोग्गल
+outter if :क्विक
+outter if :क्विक टोग्गल
+aspectTerm:क्विक टोग्गल
+sentence token:क्विक
+sentence token length :5
+aspectTerm length12
+remaining AT:टोग्गल
+remaining length:6
+remaining length6
+outter if :नहीं
+outter if :क्विक टोग्गल
+outter if :है
+outter if :क्विक टोग्गल
+outter if :,
+outter if :क्विक टोग्गल
+outter if :और
+outter if :क्विक टोग्गल
+outter if :उसे
+outter if :क्विक टोग्गल
+outter if :बदलने
+outter if :क्विक टोग्गल
+outter if :के
+outter if :क्विक टोग्गल
+outter if :लिए
+outter if :क्विक टोग्गल
+outter if :आपको
+outter if :क्विक टोग्गल
+outter if :फुल
+outter if :क्विक टोग्गल
+outter if :सेटिंग
+outter if :क्विक टोग्गल
+outter if :मेन्यू
+outter if :क्विक टोग्गल
+outter if :में
+outter if :क्विक टोग्गल
+outter if :जाना
+outter if :क्विक टोग्गल
+outter if :होगा
+outter if :क्विक टोग्गल
+outter if :।
+outter if :क्विक टोग्गल
+iter:34
+इसके
+टेक्स्ट
+आधारित
+चैट
+का
+अनुभव
+ठीक
+वैसा
+ही
+होगा
+जैसा
+कि
+आप
+आशा
+करते
+है
+-
+चैट
+शुरू
+करने
+का
+वही
+तरीका
+,
+और
+हर
+कॉन्टैक्ट
+के
+लिए
+इनडिविजुअल
+चैट
+विंडो
+।
+outter if :चैट
+outter if :चैट
+aspectTerm:चैट
+sentence token:चैट
+sentence token length :3
+aspectTerm length3
+remaining AT:
+remaining length:0
+outter if :का
+outter if :चैट
+outter if :ठीक
+outter if :चैट
+outter if :ही
+outter if :चैट
+outter if :कि
+outter if :चैट
+outter if :आप
+outter if :चैट
+outter if :आशा
+outter if :चैट
+outter if :है
+outter if :चैट
+outter if :-
+outter if :चैट
+outter if :चैट
+outter if :चैट
+aspectTerm:चैट
+sentence token:चैट
+sentence token length :3
+aspectTerm length3
+remaining AT:
+remaining length:0
+outter if :का
+outter if :चैट
+outter if :वही
+outter if :चैट
+outter if :,
+outter if :चैट
+outter if :और
+outter if :चैट
+outter if :हर
+outter if :चैट
+outter if :के
+outter if :चैट
+outter if :लिए
+outter if :चैट
+outter if :चैट
+outter if :चैट
+aspectTerm:चैट
+sentence token:चैट
+sentence token length :3
+aspectTerm length3
+remaining AT:
+remaining length:0
+outter if :।
+outter if :चैट
+iter:35
+दूसरे
+हर
+मैसेज
+एप्प
+की
+तरह
+,
+बीबीएम
+भी
+ग्रुप
+चैट
+ऑप्शन
+प्रदान
+करता
+है
+।
+iter:36
+फिलहाल
+,
+इसमें
+कोर्इ
+वीडियो
+या
+वॉयस
+कॉल
+सपोर्ट
+नहीं
+है
+।
+outter if :फिलहाल
+outter if :वीडियो या वॉयस कॉल
+outter if :,
+outter if :वीडियो या वॉयस कॉल
+outter if :इसमें
+outter if :वीडियो या वॉयस कॉल
+outter if :कोर्इ
+outter if :वीडियो या वॉयस कॉल
+outter if :वीडियो
+outter if :वीडियो या वॉयस कॉल
+aspectTerm:वीडियो या वॉयस कॉल
+sentence token:वीडियो
+sentence token length :6
+aspectTerm length18
+remaining AT:या वॉयस कॉल
+remaining length:11
+remaining length11
+remaining length8
+remaining length3
+outter if :सपोर्ट
+outter if :वीडियो या वॉयस कॉल
+outter if :नहीं
+outter if :वीडियो या वॉयस कॉल
+outter if :है
+outter if :वीडियो या वॉयस कॉल
+outter if :।
+outter if :वीडियो या वॉयस कॉल
+iter:37
+चैट
+के
+अंदर
+मैसेज
+डिलीवरी
+बिल्कुल
+रियल
+टाइम
+है
+।
+outter if :चैट
+outter if :मैसेज डिलीवरी
+outter if :के
+outter if :मैसेज डिलीवरी
+outter if :अंदर
+outter if :मैसेज डिलीवरी
+outter if :मैसेज
+outter if :मैसेज डिलीवरी
+aspectTerm:मैसेज डिलीवरी
+sentence token:मैसेज
+sentence token length :5
+aspectTerm length13
+remaining AT:डिलीवरी
+remaining length:7
+remaining length7
+outter if :बिल्कुल
+outter if :मैसेज डिलीवरी
+outter if :रियल
+outter if :मैसेज डिलीवरी
+outter if :टाइम
+outter if :मैसेज डिलीवरी
+outter if :है
+outter if :मैसेज डिलीवरी
+outter if :।
+outter if :मैसेज डिलीवरी
+iter:38
+आपके
+बीबीएम
+प्रोफाइल
+को
+स्क्रीन
+के
+टॉप
+पर
+स्थित
+बार
+के
+द्वारा
+एक्सेस
+किया
+जा
+सकता
+है
+,
+जहां
+कि
+प्रोफाइल
+पिक्चर
+और
+स्टेटस
+अपडेट
+होते
+हैं
+।
+outter if :आपके
+outter if :स्क्रीन
+outter if :बीबीएम
+outter if :स्क्रीन
+outter if :को
+outter if :स्क्रीन
+outter if :स्क्रीन
+outter if :स्क्रीन
+aspectTerm:स्क्रीन
+sentence token:स्क्रीन
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :के
+outter if :स्क्रीन
+outter if :टॉप
+outter if :स्क्रीन
+outter if :पर
+outter if :स्क्रीन
+outter if :स्थित
+outter if :स्क्रीन
+outter if :बार
+outter if :स्क्रीन
+outter if :के
+outter if :स्क्रीन
+outter if :द्वारा
+outter if :स्क्रीन
+outter if :एक्सेस
+outter if :स्क्रीन
+outter if :किया
+outter if :स्क्रीन
+outter if :जा
+outter if :स्क्रीन
+outter if :सकता
+outter if :स्क्रीन
+outter if :है
+outter if :स्क्रीन
+outter if :,
+outter if :स्क्रीन
+outter if :जहां
+outter if :स्क्रीन
+outter if :कि
+outter if :स्क्रीन
+outter if :पिक्चर
+outter if :स्क्रीन
+outter if :और
+outter if :स्क्रीन
+outter if :स्टेटस
+outter if :स्क्रीन
+outter if :अपडेट
+outter if :स्क्रीन
+outter if :होते
+outter if :स्क्रीन
+outter if :हैं
+outter if :स्क्रीन
+outter if :।
+outter if :स्क्रीन
+iter:39
+कम्पाइटेबिलिटी
+:
+आर्इफोन
+जिस
+पर
+आर्इओएस6
+और
+आर्इओएस7।
+outter if :कम्पाइटेबिलिटी
+outter if :कम्पाइटेबिलिटी
+aspectTerm:कम्पाइटेबिलिटी
+sentence token:कम्पाइटेबिलिटी
+sentence token length :14
+aspectTerm length14
+remaining AT:
+remaining length:0
+outter if ::
+outter if :कम्पाइटेबिलिटी
+outter if :आर्इफोन
+outter if :कम्पाइटेबिलिटी
+outter if :जिस
+outter if :कम्पाइटेबिलिटी
+outter if :पर
+outter if :कम्पाइटेबिलिटी
+outter if :आर्इओएस6
+outter if :कम्पाइटेबिलिटी
+outter if :और
+outter if :कम्पाइटेबिलिटी
+outter if :आर्इओएस7।
+outter if :कम्पाइटेबिलिटी
+iter:40
+अपने
+प्रतिस्पर्धियों
+के
+मुकाबले
+ज्यादा
+चैनल
+देता
+है
+।
+iter:41
+अच्छी
+स्ट्रीमिंग
+क्वालिटी
+है
+।
+outter if :अच्छी
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग क्वालिटी
+aspectTerm:स्ट्रीमिंग क्वालिटी
+sentence token:स्ट्रीमिंग
+sentence token length :10
+aspectTerm length19
+remaining AT:क्वालिटी
+remaining length:8
+remaining length8
+outter if :है
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :।
+outter if :स्ट्रीमिंग क्वालिटी
+iter:42
+मैसिव
+वीडियो
+लाइब्रेरी
+है
+।
+outter if :मैसिव
+outter if :वीडियो लाइब्रेरी
+outter if :वीडियो
+outter if :वीडियो लाइब्रेरी
+aspectTerm:वीडियो लाइब्रेरी
+sentence token:वीडियो
+sentence token length :6
+aspectTerm length16
+remaining AT:लाइब्रेरी
+remaining length:9
+remaining length9
+outter if :है
+outter if :वीडियो लाइब्रेरी
+outter if :।
+outter if :वीडियो लाइब्रेरी
+iter:43
+बोर्ड
+पर
+अभी
+तक
+कोर्इ
+स्पोर्ट्स
+चैनल
+नहीं
+है
+।
+outter if :बोर्ड
+outter if :स्पोर्ट्स चैनल
+outter if :पर
+outter if :स्पोर्ट्स चैनल
+outter if :अभी
+outter if :स्पोर्ट्स चैनल
+outter if :तक
+outter if :स्पोर्ट्स चैनल
+outter if :कोर्इ
+outter if :स्पोर्ट्स चैनल
+outter if :स्पोर्ट्स
+outter if :स्पोर्ट्स चैनल
+aspectTerm:स्पोर्ट्स चैनल
+sentence token:स्पोर्ट्स
+sentence token length :9
+aspectTerm length14
+remaining AT:चैनल
+remaining length:4
+remaining length4
+outter if :नहीं
+outter if :स्पोर्ट्स चैनल
+outter if :है
+outter if :स्पोर्ट्स चैनल
+outter if :।
+outter if :स्पोर्ट्स चैनल
+iter:44
+इस
+समय
+केवल
+एंड्रॉयड
+डिवाइसेज
+पर
+ही
+उपलब्ध
+है
+।
+outter if :इस
+outter if :एंड्रॉयड डिवाइसेज
+outter if :समय
+outter if :एंड्रॉयड डिवाइसेज
+outter if :केवल
+outter if :एंड्रॉयड डिवाइसेज
+outter if :एंड्रॉयड
+outter if :एंड्रॉयड डिवाइसेज
+aspectTerm:एंड्रॉयड डिवाइसेज
+sentence token:एंड्रॉयड
+sentence token length :8
+aspectTerm length17
+remaining AT:डिवाइसेज
+remaining length:8
+remaining length8
+outter if :पर
+outter if :एंड्रॉयड डिवाइसेज
+outter if :ही
+outter if :एंड्रॉयड डिवाइसेज
+outter if :उपलब्ध
+outter if :एंड्रॉयड डिवाइसेज
+outter if :है
+outter if :एंड्रॉयड डिवाइसेज
+outter if :।
+outter if :एंड्रॉयड डिवाइसेज
+iter:45
+एयरटेल
+डिजिटल
+टीवी
+(
+डीटीएच
+)
+ग्राहकों
+के
+लिए
+,
+इस
+मूव
+पर
+लाइव
+टीवी
+सब्सक्राइव
+करने
+का
+यह
+संकेत
+है
+।
+iter:46
+ऐसी
+सर्विस
+शुरू
+करने
+वाला
+,
+यह
+तीसरा
+डायरेक्ट
+-
+टू-होम
+टेलिविजन
+सर्विस
+प्रोवाइडर
+है
+,
+और
+यह
+प्रयास
+बहुत
+ही
+प्रभावशाली
+है
+।
+outter if :ऐसी
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :सर्विस
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :शुरू
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :करने
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :वाला
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :,
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :यह
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :तीसरा
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :डायरेक्ट
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :-
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :टू-होम
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :टेलिविजन
+outter if :टेलिविजन सर्विस प्रोवाइडर
+aspectTerm:टेलिविजन सर्विस प्रोवाइडर
+sentence token:टेलिविजन
+sentence token length :8
+aspectTerm length25
+remaining AT:सर्विस प्रोवाइडर
+remaining length:16
+remaining length16
+remaining length9
+outter if :है
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :,
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :और
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :यह
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :प्रयास
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :बहुत
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :ही
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :प्रभावशाली
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :है
+outter if :टेलिविजन सर्विस प्रोवाइडर
+outter if :।
+outter if :टेलिविजन सर्विस प्रोवाइडर
+iter:47
+यह
+एप्प
+अभी
+सिर्फ
+एंड्रॉयड
+डिवाइसेज
+के
+लिए
+ही
+उपलब्ध
+है
+।
+outter if :यह
+outter if :एंड्रॉयड डिवाइसेज
+outter if :एप्प
+outter if :एंड्रॉयड डिवाइसेज
+outter if :अभी
+outter if :एंड्रॉयड डिवाइसेज
+outter if :सिर्फ
+outter if :एंड्रॉयड डिवाइसेज
+outter if :एंड्रॉयड
+outter if :एंड्रॉयड डिवाइसेज
+aspectTerm:एंड्रॉयड डिवाइसेज
+sentence token:एंड्रॉयड
+sentence token length :8
+aspectTerm length17
+remaining AT:डिवाइसेज
+remaining length:8
+remaining length8
+outter if :के
+outter if :एंड्रॉयड डिवाइसेज
+outter if :लिए
+outter if :एंड्रॉयड डिवाइसेज
+outter if :ही
+outter if :एंड्रॉयड डिवाइसेज
+outter if :उपलब्ध
+outter if :एंड्रॉयड डिवाइसेज
+outter if :है
+outter if :एंड्रॉयड डिवाइसेज
+outter if :।
+outter if :एंड्रॉयड डिवाइसेज
+iter:48
+इसकी
+स्ट्रीमिंग
+की
+क्वालिटी
+बहुत
+हद
+तक
+आपके
+इंटरनेट
+कनेक्शन
+पर
+निर्भर
+करता
+है
+,
+और
+हर
+चीज
+सुव्यस्थित
+होने
+के
+कारण
+,
+टीवी
+चैनल
+बिल्कुल
+सही
+ढंग
+से
+देखे
+जा
+सकते
+हैं
+।
+outter if :इसकी
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग की क्वालिटी
+aspectTerm:स्ट्रीमिंग की क्वालिटी
+sentence token:स्ट्रीमिंग
+sentence token length :10
+aspectTerm length22
+remaining AT:की क्वालिटी
+remaining length:11
+remaining length11
+remaining length8
+outter if :बहुत
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :हद
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :तक
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :आपके
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :इंटरनेट
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :कनेक्शन
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :पर
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :निर्भर
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :करता
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :है
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :,
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :और
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :हर
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :चीज
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :सुव्यस्थित
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :होने
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :के
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :कारण
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :,
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :टीवी
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :चैनल
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :बिल्कुल
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :सही
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :ढंग
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :से
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :देखे
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :जा
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :सकते
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :हैं
+outter if :स्ट्रीमिंग की क्वालिटी
+outter if :।
+outter if :स्ट्रीमिंग की क्वालिटी
+iter:49
+इसका
+एप्प
+इंटरफेस
+बहुत
+रोमांचक
+तो
+नहीं
+है
+,
+लेकिन
+अच्छी
+बात
+यह
+है
+कि
+यह
+बहुत
+ही
+क्लटर
+-
+फ्री
+है
+।
+outter if :इसका
+outter if :इंटरफेस
+outter if :इसका
+outter if :क्लटर-फ्री
+outter if :एप्प
+outter if :इंटरफेस
+outter if :एप्प
+outter if :क्लटर-फ्री
+outter if :इंटरफेस
+outter if :इंटरफेस
+aspectTerm:इंटरफेस
+sentence token:इंटरफेस
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :इंटरफेस
+outter if :क्लटर-फ्री
+outter if :बहुत
+outter if :इंटरफेस
+outter if :बहुत
+outter if :क्लटर-फ्री
+outter if :रोमांचक
+outter if :इंटरफेस
+outter if :रोमांचक
+outter if :क्लटर-फ्री
+outter if :तो
+outter if :इंटरफेस
+outter if :तो
+outter if :क्लटर-फ्री
+outter if :नहीं
+outter if :इंटरफेस
+outter if :नहीं
+outter if :क्लटर-फ्री
+outter if :है
+outter if :इंटरफेस
+outter if :है
+outter if :क्लटर-फ्री
+outter if :,
+outter if :इंटरफेस
+outter if :,
+outter if :क्लटर-फ्री
+outter if :लेकिन
+outter if :इंटरफेस
+outter if :लेकिन
+outter if :क्लटर-फ्री
+outter if :अच्छी
+outter if :इंटरफेस
+outter if :अच्छी
+outter if :क्लटर-फ्री
+outter if :बात
+outter if :इंटरफेस
+outter if :बात
+outter if :क्लटर-फ्री
+outter if :यह
+outter if :इंटरफेस
+outter if :यह
+outter if :क्लटर-फ्री
+outter if :है
+outter if :इंटरफेस
+outter if :है
+outter if :क्लटर-फ्री
+outter if :कि
+outter if :इंटरफेस
+outter if :कि
+outter if :क्लटर-फ्री
+outter if :यह
+outter if :इंटरफेस
+outter if :यह
+outter if :क्लटर-फ्री
+outter if :बहुत
+outter if :इंटरफेस
+outter if :बहुत
+outter if :क्लटर-फ्री
+outter if :ही
+outter if :इंटरफेस
+outter if :ही
+outter if :क्लटर-फ्री
+outter if :क्लटर
+outter if :इंटरफेस
+outter if :क्लटर
+outter if :क्लटर-फ्री
+aspectTerm:क्लटर-फ्री
+sentence token:क्लटर
+sentence token length :5
+aspectTerm length10
+remaining AT:-फ्री
+remaining length:5
+remaining length5
+remaining length4
+outter if :है
+outter if :इंटरफेस
+outter if :है
+outter if :क्लटर-फ्री
+outter if :।
+outter if :इंटरफेस
+outter if :।
+outter if :क्लटर-फ्री
+iter:50
+एयरटेल
+एप्प
+पर
+150
+चैनल
+देते
+हैं
+जो
+इसके
+किसी
+भी
+प्रतिस्पर्धी
+के
+मुकाबले
+अधिक
+है
+।
+outter if :एप्प
+outter if :चैनल
+outter if :पर
+outter if :चैनल
+outter if :150
+outter if :चैनल
+outter if :चैनल
+outter if :चैनल
+aspectTerm:चैनल
+sentence token:चैनल
+sentence token length :4
+aspectTerm length4
+remaining AT:
+remaining length:0
+outter if :देते
+outter if :चैनल
+outter if :हैं
+outter if :चैनल
+outter if :जो
+outter if :चैनल
+outter if :इसके
+outter if :चैनल
+outter if :किसी
+outter if :चैनल
+outter if :भी
+outter if :चैनल
+outter if :के
+outter if :चैनल
+outter if :अधिक
+outter if :चैनल
+outter if :है
+outter if :चैनल
+outter if :।
+outter if :चैनल
+iter:51
+लाल
+और
+सफेद
+का
+कलर
+थीम
+कम्बिनेशन
+एयरटेल
+का
+बहुत
+ही
+सुंदर
+ट्रेडमार्क
+है
+।
+iter:52
+वीडियो
+को
+फ्री
+दिखाता
+है
+।
+outter if :वीडियो
+outter if :वीडियो
+aspectTerm:वीडियो
+sentence token:वीडियो
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :को
+outter if :वीडियो
+outter if :फ्री
+outter if :वीडियो
+outter if :दिखाता
+outter if :वीडियो
+outter if :है
+outter if :वीडियो
+outter if :।
+outter if :वीडियो
+iter:53
+दायीं
+ओर
+वर्टिकल
+मेन्यू
+होता
+है
+जिसमें
+एनी
+टाइम
+टीवी
+(
+कैच
+-
+अप
+टीवी
+)
+,
+ट्रेंडिंग
+प्रोग्राम्स
+,
+फ्री
+वीडियोज
+और
+मूवी
+प्रीव्यू
+जैसे
+वैल्यू
+एडेड
+फीचर्स
+की
+लिस्ट
+होती
+है
+।
+outter if :दायीं
+outter if :मेन्यू
+outter if :ओर
+outter if :मेन्यू
+outter if :मेन्यू
+outter if :मेन्यू
+aspectTerm:मेन्यू
+sentence token:मेन्यू
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :होता
+outter if :मेन्यू
+outter if :है
+outter if :मेन्यू
+outter if :जिसमें
+outter if :मेन्यू
+outter if :एनी
+outter if :मेन्यू
+outter if :टाइम
+outter if :मेन्यू
+outter if :टीवी
+outter if :मेन्यू
+outter if :(
+outter if :मेन्यू
+outter if :कैच
+outter if :मेन्यू
+outter if :-
+outter if :मेन्यू
+outter if :अप
+outter if :मेन्यू
+outter if :टीवी
+outter if :मेन्यू
+outter if :)
+outter if :मेन्यू
+outter if :,
+outter if :मेन्यू
+outter if :,
+outter if :मेन्यू
+outter if :फ्री
+outter if :मेन्यू
+outter if :और
+outter if :मेन्यू
+outter if :मूवी
+outter if :मेन्यू
+outter if :जैसे
+outter if :मेन्यू
+outter if :वैल्यू
+outter if :मेन्यू
+outter if :एडेड
+outter if :मेन्यू
+outter if :फीचर्स
+outter if :मेन्यू
+outter if :की
+outter if :मेन्यू
+outter if :लिस्ट
+outter if :मेन्यू
+outter if :होती
+outter if :मेन्यू
+outter if :है
+outter if :मेन्यू
+outter if :।
+outter if :मेन्यू
+iter:54
+मौजूदा
+डिजाइन
+निस्संदेह
+उपयोग
+और
+प्रेरणा
+से
+अधिक
+है
+।
+outter if :मौजूदा
+outter if :डिजाइन
+outter if :डिजाइन
+outter if :डिजाइन
+aspectTerm:डिजाइन
+sentence token:डिजाइन
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :उपयोग
+outter if :डिजाइन
+outter if :और
+outter if :डिजाइन
+outter if :से
+outter if :डिजाइन
+outter if :अधिक
+outter if :डिजाइन
+outter if :है
+outter if :डिजाइन
+outter if :।
+outter if :डिजाइन
+iter:55
+यह
+खास
+तौर
+से
+एक
+छोटे
+स्मार्टफोन
+के
+स्क्रीन
+पर
+हार्इ
+क्वालिटी
+एप्प
+की
+तरह
+नहीं
+लगता
+है
+।
+outter if :यह
+outter if :स्क्रीन
+outter if :खास
+outter if :स्क्रीन
+outter if :तौर
+outter if :स्क्रीन
+outter if :से
+outter if :स्क्रीन
+outter if :एक
+outter if :स्क्रीन
+outter if :छोटे
+outter if :स्क्रीन
+outter if :के
+outter if :स्क्रीन
+outter if :स्क्रीन
+outter if :स्क्रीन
+aspectTerm:स्क्रीन
+sentence token:स्क्रीन
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :पर
+outter if :स्क्रीन
+outter if :हार्इ
+outter if :स्क्रीन
+outter if :एप्प
+outter if :स्क्रीन
+outter if :की
+outter if :स्क्रीन
+outter if :तरह
+outter if :स्क्रीन
+outter if :नहीं
+outter if :स्क्रीन
+outter if :लगता
+outter if :स्क्रीन
+outter if :है
+outter if :स्क्रीन
+outter if :।
+outter if :स्क्रीन
+iter:56
+और
+चूंकि
+वह
+बहुत
+से
+यूजर्स
+के
+लिए
+परेशानी
+का
+सबब
+नहीं
+बनता
+है
+,
+अत
+:
+आप
+एयरटेल
+से
+इसकी
+उम्मीद
+कर
+सकते
+हैं
+कि
+वह
+एप्प
+के
+लिए
+कुछ
+अच्छा
+करे
+जो
+आगे
+एक
+अच्छा
+डील
+हो
+।
+iter:57
+हल्का
+चमकीला
+ग्राफिक्स
+अच्छा
+काम
+करेगा
+,
+जैसे
+कि
+टाटा
+स्कार्इ
+ने
+एवरीह्वेयर
+टीवी
+सर्विस
+को
+पैकेज
+किया
+।
+outter if :हल्का
+outter if :ग्राफिक्स
+outter if :चमकीला
+outter if :ग्राफिक्स
+outter if :ग्राफिक्स
+outter if :ग्राफिक्स
+aspectTerm:ग्राफिक्स
+sentence token:ग्राफिक्स
+sentence token length :9
+aspectTerm length9
+remaining AT:
+remaining length:0
+outter if :अच्छा
+outter if :ग्राफिक्स
+outter if :काम
+outter if :ग्राफिक्स
+outter if :करेगा
+outter if :ग्राफिक्स
+outter if :,
+outter if :ग्राफिक्स
+outter if :जैसे
+outter if :ग्राफिक्स
+outter if :कि
+outter if :ग्राफिक्स
+outter if :टाटा
+outter if :ग्राफिक्स
+outter if :स्कार्इ
+outter if :ग्राफिक्स
+outter if :ने
+outter if :ग्राफिक्स
+outter if :टीवी
+outter if :ग्राफिक्स
+outter if :सर्विस
+outter if :ग्राफिक्स
+outter if :को
+outter if :ग्राफिक्स
+outter if :पैकेज
+outter if :ग्राफिक्स
+outter if :किया
+outter if :ग्राफिक्स
+outter if :।
+outter if :ग्राफिक्स
+iter:58
+लाइव
+टीवी
+-
+यह
+इस
+एप्प
+के
+इस्तेमाल
+करने
+और
+उसके
+लिए
+भुगतान
+करने
+के
+पूरे
+काम
+का
+मेन
+प्वॉइंट
+है
+,
+और
+यह
+बताते
+हुए
+मुझे
+बहुत
+खुशी
+हो
+रही
+है
+कि
+इसका
+अनुभव
+बहुत
+ही
+अच्छा
+है
+।
+outter if :लाइव
+outter if :लाइव टीवी
+aspectTerm:लाइव टीवी
+sentence token:लाइव
+sentence token length :4
+aspectTerm length9
+remaining AT:टीवी
+remaining length:4
+remaining length4
+outter if :-
+outter if :लाइव टीवी
+outter if :यह
+outter if :लाइव टीवी
+outter if :इस
+outter if :लाइव टीवी
+outter if :एप्प
+outter if :लाइव टीवी
+outter if :के
+outter if :लाइव टीवी
+outter if :इस्तेमाल
+outter if :लाइव टीवी
+outter if :करने
+outter if :लाइव टीवी
+outter if :और
+outter if :लाइव टीवी
+outter if :उसके
+outter if :लाइव टीवी
+outter if :लिए
+outter if :लाइव टीवी
+outter if :भुगतान
+outter if :लाइव टीवी
+outter if :करने
+outter if :लाइव टीवी
+outter if :के
+outter if :लाइव टीवी
+outter if :पूरे
+outter if :लाइव टीवी
+outter if :काम
+outter if :लाइव टीवी
+outter if :का
+outter if :लाइव टीवी
+outter if :मेन
+outter if :लाइव टीवी
+outter if :प्वॉइंट
+outter if :लाइव टीवी
+outter if :है
+outter if :लाइव टीवी
+outter if :,
+outter if :लाइव टीवी
+outter if :और
+outter if :लाइव टीवी
+outter if :यह
+outter if :लाइव टीवी
+outter if :बताते
+outter if :लाइव टीवी
+outter if :हुए
+outter if :लाइव टीवी
+outter if :मुझे
+outter if :लाइव टीवी
+outter if :बहुत
+outter if :लाइव टीवी
+outter if :खुशी
+outter if :लाइव टीवी
+outter if :हो
+outter if :लाइव टीवी
+outter if :रही
+outter if :लाइव टीवी
+outter if :है
+outter if :लाइव टीवी
+outter if :कि
+outter if :लाइव टीवी
+outter if :इसका
+outter if :लाइव टीवी
+outter if :अनुभव
+outter if :लाइव टीवी
+outter if :बहुत
+outter if :लाइव टीवी
+outter if :ही
+outter if :लाइव टीवी
+outter if :अच्छा
+outter if :लाइव टीवी
+outter if :है
+outter if :लाइव टीवी
+outter if :।
+outter if :लाइव टीवी
+iter:59
+आपको
+बस
+एक
+अच्छी
+स्पीड
+पर
+एक
+वार्इफार्इ
+या
+3जी
+कनेक्शन
+की
+जरूरत
+होती
+है
+और
+स्ट्रीमिंग
+क्वालिटी
+भी
+अच्छी
+होती
+है
+।
+outter if :आपको
+outter if :स्पीड
+outter if :आपको
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :आपको
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :बस
+outter if :स्पीड
+outter if :बस
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :बस
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :एक
+outter if :स्पीड
+outter if :एक
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :एक
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :अच्छी
+outter if :स्पीड
+outter if :अच्छी
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :अच्छी
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :स्पीड
+outter if :स्पीड
+aspectTerm:स्पीड
+sentence token:स्पीड
+sentence token length :5
+aspectTerm length5
+remaining AT:
+remaining length:0
+outter if :स्पीड
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :स्पीड
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :पर
+outter if :स्पीड
+outter if :पर
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :पर
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :एक
+outter if :स्पीड
+outter if :एक
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :एक
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :वार्इफार्इ
+outter if :वार्इफार्इ या 3जी कनेक्शन
+aspectTerm:वार्इफार्इ या 3जी कनेक्शन
+sentence token:वार्इफार्इ
+sentence token length :10
+aspectTerm length25
+remaining AT:या 3जी कनेक्शन
+remaining length:14
+remaining length14
+remaining length11
+remaining length7
+outter if :वार्इफार्इ
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :की
+outter if :स्पीड
+outter if :की
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :की
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :जरूरत
+outter if :स्पीड
+outter if :जरूरत
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :जरूरत
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :होती
+outter if :स्पीड
+outter if :होती
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :होती
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :है
+outter if :स्पीड
+outter if :है
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :है
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :और
+outter if :स्पीड
+outter if :और
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :और
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :स्ट्रीमिंग
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग क्वालिटी
+aspectTerm:स्ट्रीमिंग क्वालिटी
+sentence token:स्ट्रीमिंग
+sentence token length :10
+aspectTerm length19
+remaining AT:क्वालिटी
+remaining length:8
+remaining length8
+outter if :भी
+outter if :स्पीड
+outter if :भी
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :भी
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :अच्छी
+outter if :स्पीड
+outter if :अच्छी
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :अच्छी
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :होती
+outter if :स्पीड
+outter if :होती
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :होती
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :है
+outter if :स्पीड
+outter if :है
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :है
+outter if :स्ट्रीमिंग क्वालिटी
+outter if :।
+outter if :स्पीड
+outter if :।
+outter if :वार्इफार्इ या 3जी कनेक्शन
+outter if :।
+outter if :स्ट्रीमिंग क्वालिटी
+iter:60
+डिटेक्टेड
+बैंडविथ
+के
+अनुसार
+,
+क्वालिटी
+को
+ऑटोमैटिकली
+मैनेज
+किया
+जाता
+है
+।
+outter if :बैंडविथ
+outter if :क्वालिटी
+outter if :के
+outter if :क्वालिटी
+outter if :अनुसार
+outter if :क्वालिटी
+outter if :,
+outter if :क्वालिटी
+outter if :क्वालिटी
+outter if :क्वालिटी
+aspectTerm:क्वालिटी
+sentence token:क्वालिटी
+sentence token length :8
+aspectTerm length8
+remaining AT:
+remaining length:0
+outter if :को
+outter if :क्वालिटी
+outter if :मैनेज
+outter if :क्वालिटी
+outter if :किया
+outter if :क्वालिटी
+outter if :जाता
+outter if :क्वालिटी
+outter if :है
+outter if :क्वालिटी
+outter if :।
+outter if :क्वालिटी
+iter:61
+किसी
+स्मार्टफोन
+या
+टैबलेट
+के
+मामले
+में
+,
+यह
+स्ट्रीमिंग
+के
+लिए
+जरूरत
+से
+ज्यादा
+की
+क्वालिटी
+है
+।
+outter if :किसी
+outter if :स्ट्रीमिंग
+outter if :स्मार्टफोन
+outter if :स्ट्रीमिंग
+outter if :या
+outter if :स्ट्रीमिंग
+outter if :टैबलेट
+outter if :स्ट्रीमिंग
+outter if :के
+outter if :स्ट्रीमिंग
+outter if :मामले
+outter if :स्ट्रीमिंग
+outter if :में
+outter if :स्ट्रीमिंग
+outter if :,
+outter if :स्ट्रीमिंग
+outter if :यह
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग
+aspectTerm:स्ट्रीमिंग
+sentence token:स्ट्रीमिंग
+sentence token length :10
+aspectTerm length10
+remaining AT:
+remaining length:0
+outter if :के
+outter if :स्ट्रीमिंग
+outter if :लिए
+outter if :स्ट्रीमिंग
+outter if :जरूरत
+outter if :स्ट्रीमिंग
+outter if :से
+outter if :स्ट्रीमिंग
+outter if :ज्यादा
+outter if :स्ट्रीमिंग
+outter if :की
+outter if :स्ट्रीमिंग
+outter if :क्वालिटी
+outter if :स्ट्रीमिंग
+outter if :है
+outter if :स्ट्रीमिंग
+outter if :।
+outter if :स्ट्रीमिंग
+iter:62
+8
+एमबीपीएस
+वार्इफार्इ
+कनेक्शन
+पर
+स्ट्रीमिंग
+बहुत
+सही
+होता
+है
+।
+outter if :8
+outter if :वार्इफार्इ कनेक्शन
+outter if :8
+outter if :स्ट्रीमिंग
+outter if :एमबीपीएस
+outter if :वार्इफार्इ कनेक्शन
+outter if :एमबीपीएस
+outter if :स्ट्रीमिंग
+outter if :वार्इफार्इ
+outter if :वार्इफार्इ कनेक्शन
+aspectTerm:वार्इफार्इ कनेक्शन
+sentence token:वार्इफार्इ
+sentence token length :10
+aspectTerm length18
+remaining AT:कनेक्शन
+remaining length:7
+remaining length7
+outter if :वार्इफार्इ
+outter if :स्ट्रीमिंग
+outter if :पर
+outter if :वार्इफार्इ कनेक्शन
+outter if :पर
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग
+outter if :वार्इफार्इ कनेक्शन
+outter if :स्ट्रीमिंग
+outter if :स्ट्रीमिंग
+aspectTerm:स्ट्रीमिंग
+sentence token:स्ट्रीमिंग
+sentence token length :10
+aspectTerm length10
+remaining AT:
+remaining length:0
+outter if :बहुत
+outter if :वार्इफार्इ कनेक्शन
+outter if :बहुत
+outter if :स्ट्रीमिंग
+outter if :सही
+outter if :वार्इफार्इ कनेक्शन
+outter if :सही
+outter if :स्ट्रीमिंग
+outter if :होता
+outter if :वार्इफार्इ कनेक्शन
+outter if :होता
+outter if :स्ट्रीमिंग
+outter if :है
+outter if :वार्इफार्इ कनेक्शन
+outter if :है
+outter if :स्ट्रीमिंग
+outter if :।
+outter if :वार्इफार्इ कनेक्शन
+outter if :।
+outter if :स्ट्रीमिंग
+iter:63
+लॉन्च
+के
+समय
+,
+एयरटेल
+पॉकेट
+टीवी
+सर्विस
+पर
+150
+चैनल
+दे
+रहा
+है
+।
+outter if :के
+outter if :चैनल
+outter if :समय
+outter if :चैनल
+outter if :,
+outter if :चैनल
+outter if :टीवी
+outter if :चैनल
+outter if :पर
+outter if :चैनल
+outter if :150
+outter if :चैनल
+outter if :चैनल
+outter if :चैनल
+aspectTerm:चैनल
+sentence token:चैनल
+sentence token length :4
+aspectTerm length4
+remaining AT:
+remaining length:0
+outter if :दे
+outter if :चैनल
+outter if :रहा
+outter if :चैनल
+outter if :है
+outter if :चैनल
+outter if :।
+outter if :चैनल
+iter:64
+टाटा
+स्कार्इ
+के
+एवरीह्वेयर
+और
+डिश
+टीवी
+के
+डिश
+ऑन
+लाइन
+सर्विस
+के
+मुकाबले
+,
+यह
+बहुत
+अधिक
+है
+।
+iter:65
+एयरटेल
+पॉकेट
+टीवी
+सर्विस
+में
+अभी
+तक
+उसके
+एप्प
+पर
+कोर्इ
+भी
+स्पोर्ट्स
+चैनल
+उपलब्ध
+नहीं
+है
+और
+यह
+उसके
+लिए
+खास
+नुकसान
+है
+।
+outter if :एयरटेल
+outter if :स्पोर्ट्स चैनल
+outter if :पॉकेट
+outter if :स्पोर्ट्स चैनल
+outter if :टीवी
+outter if :स्पोर्ट्स चैनल
+outter if :सर्विस
+outter if :स्पोर्ट्स चैनल
+outter if :में
+outter if :स्पोर्ट्स चैनल
+outter if :अभी
+outter if :स्पोर्ट्स चैनल
+outter if :तक
+outter if :स्पोर्ट्स चैनल
+outter if :उसके
+outter if :स्पोर्ट्स चैनल
+outter if :एप्प
+outter if :स्पोर्ट्स चैनल
+outter if :पर
+outter if :स्पोर्ट्स चैनल
+outter if :कोर्इ
+outter if :स्पोर्ट्स चैनल
+outter if :भी
+outter if :स्पोर्ट्स चैनल
+outter if :स्पोर्ट्स
+outter if :स्पोर्ट्स चैनल
+aspectTerm:स्पोर्ट्स चैनल
+sentence token:स्पोर्ट्स
+sentence token length :9
+aspectTerm length14
+remaining AT:चैनल
+remaining length:4
+remaining length4
+outter if :उपलब्ध
+outter if :स्पोर्ट्स चैनल
+outter if :नहीं
+outter if :स्पोर्ट्स चैनल
+outter if :है
+outter if :स्पोर्ट्स चैनल
+outter if :और
+outter if :स्पोर्ट्स चैनल
+outter if :यह
+outter if :स्पोर्ट्स चैनल
+outter if :उसके
+outter if :स्पोर्ट्स चैनल
+outter if :लिए
+outter if :स्पोर्ट्स चैनल
+outter if :खास
+outter if :स्पोर्ट्स चैनल
+outter if :नुकसान
+outter if :स्पोर्ट्स चैनल
+outter if :है
+outter if :स्पोर्ट्स चैनल
+outter if :।
+outter if :स्पोर्ट्स चैनल
+iter:66
+टाटा
+स्कार्इ
+और
+डिश
+टीवी
+दोनों
+कुछ
+खास
+स्पोर्ट्स
+चैनल
+देते
+हैं
+।
+outter if :टाटा
+outter if :स्पोर्ट्स चैनल
+outter if :स्कार्इ
+outter if :स्पोर्ट्स चैनल
+outter if :और
+outter if :स्पोर्ट्स चैनल
+outter if :डिश
+outter if :स्पोर्ट्स चैनल
+outter if :टीवी
+outter if :स्पोर्ट्स चैनल
+outter if :दोनों
+outter if :स्पोर्ट्स चैनल
+outter if :कुछ
+outter if :स्पोर्ट्स चैनल
+outter if :खास
+outter if :स्पोर्ट्स चैनल
+outter if :स्पोर्ट्स
+outter if :स्पोर्ट्स चैनल
+aspectTerm:स्पोर्ट्स चैनल
+sentence token:स्पोर्ट्स
+sentence token length :9
+aspectTerm length14
+remaining AT:चैनल
+remaining length:4
+remaining length4
+outter if :देते
+outter if :स्पोर्ट्स चैनल
+outter if :हैं
+outter if :स्पोर्ट्स चैनल
+outter if :।
+outter if :स्पोर्ट्स चैनल
+iter:67
+एयरटेल
+पॉकेट
+टीवी
+एप्प
+पर
+ऑन
+-
+डिमांड
+सर्विस
+अलग
+-
+अलग
+तरह
+के
+मूवीज
+की
+लाइब्रेरी
+देती
+है
+और
+वह
+बिगफ्लिक्स
+द्वारा
+पावर्ड
+होती
+है
+।
+outter if :एयरटेल
+outter if :मूवीज की लाइब्रेरी
+outter if :पॉकेट
+outter if :मूवीज की लाइब्रेरी
+outter if :टीवी
+outter if :मूवीज की लाइब्रेरी
+outter if :एप्प
+outter if :मूवीज की लाइब्रेरी
+outter if :पर
+outter if :मूवीज की लाइब्रेरी
+outter if :ऑन
+outter if :मूवीज की लाइब्रेरी
+outter if :-
+outter if :मूवीज की लाइब्रेरी
+outter if :डिमांड
+outter if :मूवीज की लाइब्रेरी
+outter if :सर्विस
+outter if :मूवीज की लाइब्रेरी
+outter if :अलग
+outter if :मूवीज की लाइब्रेरी
+outter if :-
+outter if :मूवीज की लाइब्रेरी
+outter if :अलग
+outter if :मूवीज की लाइब्रेरी
+outter if :तरह
+outter if :मूवीज की लाइब्रेरी
+outter if :के
+outter if :मूवीज की लाइब्रेरी
+outter if :मूवीज
+outter if :मूवीज की लाइब्रेरी
+aspectTerm:मूवीज की लाइब्रेरी
+sentence token:मूवीज
+sentence token length :5
+aspectTerm length18
+remaining AT:की लाइब्रेरी
+remaining length:12
+remaining length12
+remaining length9
+outter if :देती
+outter if :मूवीज की लाइब्रेरी
+outter if :है
+outter if :मूवीज की लाइब्रेरी
+outter if :और
+outter if :मूवीज की लाइब्रेरी
+outter if :वह
+outter if :मूवीज की लाइब्रेरी
+outter if :बिगफ्लिक्स
+outter if :मूवीज की लाइब्रेरी
+outter if :द्वारा
+outter if :मूवीज की लाइब्रेरी
+outter if :पावर्ड
+outter if :मूवीज की लाइब्रेरी
+outter if :होती
+outter if :मूवीज की लाइब्रेरी
+outter if :है
+outter if :मूवीज की लाइब्रेरी
+outter if :।
+outter if :मूवीज की लाइब्रेरी
+iter:68
+और
+इसका
+सबसे
+अच्छा
+भाग
+यह
+है
+कि
+मूवीज
+की
+पूरी
+लाइब्रेरी
+को
+बिना
+किसी
+अतिरिक्त
+चार्ज
+के
+स्ट्रीम
+किया
+जा
+सकता
+है
+।
+outter if :और
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :इसका
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :सबसे
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :अच्छा
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :भाग
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :यह
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :है
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :कि
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :मूवीज
+outter if :मूवीज की पूरी लाइब्रेरी
+aspectTerm:मूवीज की पूरी लाइब्रेरी
+sentence token:मूवीज
+sentence token length :5
+aspectTerm length23
+remaining AT:की पूरी लाइब्रेरी
+remaining length:17
+remaining length17
+remaining length14
+remaining length9
+outter if :को
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :बिना
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :किसी
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :अतिरिक्त
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :चार्ज
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :के
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :स्ट्रीम
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :किया
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :जा
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :सकता
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :है
+outter if :मूवीज की पूरी लाइब्रेरी
+outter if :।
+outter if :मूवीज की पूरी लाइब्रेरी
+iter:69
+60
+रूपये
+प्रति
+माह
+में
+लाइव
+टीवी
+स्ट्रीमिंग
+और
+ऑन
+-
+डिमांड
+सेक्शन
+में
+उपलब्ध
+एक
+मैसिव
+मूवी
+लाइब्रेरी
+,
+यह
+बुरा
+सौदा
+नहीं
+है
+।
+outter if :60
+outter if :रूपये
+outter if :60
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :60
+outter if :ऑन-डिमांड सेक्शन
+outter if :60
+outter if :मूवी लाइब्रेरी
+outter if :रूपये
+outter if :रूपये
+aspectTerm:रूपये
+sentence token:रूपये
+sentence token length :5
+aspectTerm length5
+remaining AT:
+remaining length:0
+outter if :रूपये
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :रूपये
+outter if :ऑन-डिमांड सेक्शन
+outter if :रूपये
+outter if :मूवी लाइब्रेरी
+outter if :प्रति
+outter if :रूपये
+outter if :प्रति
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :प्रति
+outter if :ऑन-डिमांड सेक्शन
+outter if :प्रति
+outter if :मूवी लाइब्रेरी
+outter if :माह
+outter if :रूपये
+outter if :माह
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :माह
+outter if :ऑन-डिमांड सेक्शन
+outter if :माह
+outter if :मूवी लाइब्रेरी
+outter if :में
+outter if :रूपये
+outter if :में
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :में
+outter if :ऑन-डिमांड सेक्शन
+outter if :में
+outter if :मूवी लाइब्रेरी
+outter if :लाइव
+outter if :रूपये
+outter if :लाइव
+outter if :लाइव टीवी स्ट्रीमिंग
+aspectTerm:लाइव टीवी स्ट्रीमिंग
+sentence token:लाइव
+sentence token length :4
+aspectTerm length20
+remaining AT:टीवी स्ट्रीमिंग
+remaining length:15
+remaining length15
+remaining length10
+outter if :लाइव
+outter if :ऑन-डिमांड सेक्शन
+outter if :लाइव
+outter if :मूवी लाइब्रेरी
+outter if :और
+outter if :रूपये
+outter if :और
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :और
+outter if :ऑन-डिमांड सेक्शन
+outter if :और
+outter if :मूवी लाइब्रेरी
+outter if :ऑन
+outter if :रूपये
+outter if :ऑन
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :ऑन
+outter if :ऑन-डिमांड सेक्शन
+aspectTerm:ऑन-डिमांड सेक्शन
+sentence token:ऑन
+sentence token length :2
+aspectTerm length16
+remaining AT:-डिमांड सेक्शन
+remaining length:14
+remaining length14
+remaining length13
+remaining length6
+outter if :ऑन
+outter if :मूवी लाइब्रेरी
+outter if :में
+outter if :रूपये
+outter if :में
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :में
+outter if :ऑन-डिमांड सेक्शन
+outter if :में
+outter if :मूवी लाइब्रेरी
+outter if :उपलब्ध
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :उपलब्ध
+outter if :ऑन-डिमांड सेक्शन
+outter if :उपलब्ध
+outter if :मूवी लाइब्रेरी
+outter if :एक
+outter if :रूपये
+outter if :एक
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :एक
+outter if :ऑन-डिमांड सेक्शन
+outter if :एक
+outter if :मूवी लाइब्रेरी
+outter if :मैसिव
+outter if :रूपये
+outter if :मैसिव
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :मैसिव
+outter if :ऑन-डिमांड सेक्शन
+outter if :मैसिव
+outter if :मूवी लाइब्रेरी
+outter if :मूवी
+outter if :रूपये
+outter if :मूवी
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :मूवी
+outter if :ऑन-डिमांड सेक्शन
+outter if :मूवी
+outter if :मूवी लाइब्रेरी
+aspectTerm:मूवी लाइब्रेरी
+sentence token:मूवी
+sentence token length :4
+aspectTerm length14
+remaining AT:लाइब्रेरी
+remaining length:9
+remaining length9
+outter if :,
+outter if :रूपये
+outter if :,
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :,
+outter if :ऑन-डिमांड सेक्शन
+outter if :,
+outter if :मूवी लाइब्रेरी
+outter if :यह
+outter if :रूपये
+outter if :यह
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :यह
+outter if :ऑन-डिमांड सेक्शन
+outter if :यह
+outter if :मूवी लाइब्रेरी
+outter if :बुरा
+outter if :रूपये
+outter if :बुरा
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :बुरा
+outter if :ऑन-डिमांड सेक्शन
+outter if :बुरा
+outter if :मूवी लाइब्रेरी
+outter if :सौदा
+outter if :रूपये
+outter if :सौदा
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :सौदा
+outter if :ऑन-डिमांड सेक्शन
+outter if :सौदा
+outter if :मूवी लाइब्रेरी
+outter if :नहीं
+outter if :रूपये
+outter if :नहीं
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :नहीं
+outter if :ऑन-डिमांड सेक्शन
+outter if :नहीं
+outter if :मूवी लाइब्रेरी
+outter if :है
+outter if :रूपये
+outter if :है
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :है
+outter if :ऑन-डिमांड सेक्शन
+outter if :है
+outter if :मूवी लाइब्रेरी
+outter if :।
+outter if :रूपये
+outter if :।
+outter if :लाइव टीवी स्ट्रीमिंग
+outter if :।
+outter if :ऑन-डिमांड सेक्शन
+outter if :।
+outter if :मूवी लाइब्रेरी
+iter:70
+बिल्कुल
+र्इमानदारी
+से
+,
+टीवी
+देखने
+के
+लिए
+आपके
+स्मार्टफोन
+को
+एक
+वैकल्पिक
+स्क्रीन
+बनाकर
+एयरटेल
+पॉकेट
+टीवी
+,
+ढेर
+सारी
+फ्लेक्सिबिलिटी
+और
+सुविधा
+देता
+है
+।
+outter if :बिल्कुल
+outter if :स्क्रीन
+outter if :से
+outter if :स्क्रीन
+outter if :,
+outter if :स्क्रीन
+outter if :टीवी
+outter if :स्क्रीन
+outter if :देखने
+outter if :स्क्रीन
+outter if :के
+outter if :स्क्रीन
+outter if :लिए
+outter if :स्क्रीन
+outter if :आपके
+outter if :स्क्रीन
+outter if :को
+outter if :स्क्रीन
+outter if :एक
+outter if :स्क्रीन
+outter if :स्क्रीन
+outter if :स्क्रीन
+aspectTerm:स्क्रीन
+sentence token:स्क्रीन
+sentence token length :7
+aspectTerm length7
+remaining AT:
+remaining length:0
+outter if :बनाकर
+outter if :स्क्रीन
+outter if :एयरटेल
+outter if :स्क्रीन
+outter if :पॉकेट
+outter if :स्क्रीन
+outter if :टीवी
+outter if :स्क्रीन
+outter if :,
+outter if :स्क्रीन
+outter if :ढेर
+outter if :स्क्रीन
+outter if :सारी
+outter if :स्क्रीन
+outter if :और
+outter if :स्क्रीन
+outter if :सुविधा
+outter if :स्क्रीन
+outter if :देता
+outter if :स्क्रीन
+outter if :है
+outter if :स्क्रीन
+outter if :।
+outter if :स्क्रीन
+iter:71
+इस
+प्लेटफॉर्म
+पर
+अभी
+तक
+एचडी
+चैनल्स
+उपलब्ध
+नहीं
+हैं
+।
+outter if :इस
+outter if :चैनल्स
+outter if :पर
+outter if :चैनल्स
+outter if :अभी
+outter if :चैनल्स
+outter if :तक
+outter if :चैनल्स
+outter if :एचडी
+outter if :चैनल्स
+outter if :चैनल्स
+outter if :चैनल्स
+aspectTerm:चैनल्स
+sentence token:चैनल्स
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :उपलब्ध
+outter if :चैनल्स
+outter if :नहीं
+outter if :चैनल्स
+outter if :हैं
+outter if :चैनल्स
+outter if :।
+outter if :चैनल्स
+iter:72
+बैंडविथ
+कॉस्ट
+को
+कम
+करना
+शायद
+उसका
+कारण
+हो
+सकता
+है
+।
+outter if :बैंडविथ
+outter if :बैंडविथ कॉस्ट
+aspectTerm:बैंडविथ कॉस्ट
+sentence token:बैंडविथ
+sentence token length :7
+aspectTerm length13
+remaining AT:कॉस्ट
+remaining length:5
+remaining length5
+outter if :को
+outter if :बैंडविथ कॉस्ट
+outter if :कम
+outter if :बैंडविथ कॉस्ट
+outter if :करना
+outter if :बैंडविथ कॉस्ट
+outter if :शायद
+outter if :बैंडविथ कॉस्ट
+outter if :उसका
+outter if :बैंडविथ कॉस्ट
+outter if :कारण
+outter if :बैंडविथ कॉस्ट
+outter if :हो
+outter if :बैंडविथ कॉस्ट
+outter if :सकता
+outter if :बैंडविथ कॉस्ट
+outter if :है
+outter if :बैंडविथ कॉस्ट
+outter if :।
+outter if :बैंडविथ कॉस्ट
+iter:73
+यह
+एक
+नया
+हिस्सा
+है
+जिसे
+हम
+पूर्वाभासी
+भविष्य
+के
+लिए
+जारी
+रखना
+चाहते
+हैं
+।
+iter:74
+एप्प
+मूलतः
+आपके
+शहर
+के
+कार्यक्रमों
+की
+एक
+क्यूरेटेड
+सूची
+लाता
+है
+,
+आपको
+एप्प
+के
+जरिये
+टिकट
+बुक
+करने
+की
+सुविधा
+प्रदान
+करता
+है
+।
+iter:75
+इंस्टाबाउंस
+पर
+विशेष
+छूट
+भी
+मिलेगी
+।
+outter if :पर
+outter if :छूट
+outter if :छूट
+outter if :छूट
+aspectTerm:छूट
+sentence token:छूट
+sentence token length :3
+aspectTerm length3
+remaining AT:
+remaining length:0
+outter if :भी
+outter if :छूट
+outter if :।
+outter if :छूट
+iter:76
+‘
+साइन
+ईजी
+एप
+’
+आपके
+फोन
+या
+टैबलेट
+पर
+अपने
+डिजिटल@@
+डॉक्यूमेंट्स
+को
+डिजिटली
+साइन
+कर
+सकने
+की
+आजादी
+देता
+है
+।
+outter if :‘
+outter if :डिजिटली साइन
+outter if :साइन
+outter if :डिजिटली साइन
+outter if :ईजी
+outter if :डिजिटली साइन
+outter if :एप
+outter if :डिजिटली साइन
+outter if :’
+outter if :डिजिटली साइन
+outter if :आपके
+outter if :डिजिटली साइन
+outter if :फोन
+outter if :डिजिटली साइन
+outter if :या
+outter if :डिजिटली साइन
+outter if :टैबलेट
+outter if :डिजिटली साइन
+outter if :पर
+outter if :डिजिटली साइन
+outter if :अपने
+outter if :डिजिटली साइन
+outter if :डिजिटल@@
+outter if :डिजिटली साइन
+outter if :डॉक्यूमेंट्स
+outter if :डिजिटली साइन
+outter if :को
+outter if :डिजिटली साइन
+outter if :डिजिटली
+outter if :डिजिटली साइन
+aspectTerm:डिजिटली साइन
+sentence token:डिजिटली
+sentence token length :7
+aspectTerm length12
+remaining AT:साइन
+remaining length:4
+remaining length4
+outter if :कर
+outter if :डिजिटली साइन
+outter if :सकने
+outter if :डिजिटली साइन
+outter if :की
+outter if :डिजिटली साइन
+outter if :आजादी
+outter if :डिजिटली साइन
+outter if :देता
+outter if :डिजिटली साइन
+outter if :है
+outter if :डिजिटली साइन
+outter if :।
+outter if :डिजिटली साइन
+iter:77
+इस
+एप
+की
+मदद
+से
+आप
+अपने
+हस्ताक्षर
+को
+रजिस्टर
+कर
+सकते
+हैं
+।
+iter:78
+इसके
+बाद
+आईफोन
+5एस
+पर
+फिंगप्रिंट
+सेंसर
+का
+उपयोग
+कर
+इसे
+डॉक्यूमेंट
+पर
+हस्तांतरित
+किया
+जा
+सकता
+है
+।
+outter if :इसके
+outter if :फिंगप्रिंट सेंसर
+outter if :बाद
+outter if :फिंगप्रिंट सेंसर
+outter if :आईफोन
+outter if :फिंगप्रिंट सेंसर
+outter if :5एस
+outter if :फिंगप्रिंट सेंसर
+outter if :पर
+outter if :फिंगप्रिंट सेंसर
+outter if :फिंगप्रिंट
+outter if :फिंगप्रिंट सेंसर
+aspectTerm:फिंगप्रिंट सेंसर
+sentence token:फिंगप्रिंट
+sentence token length :10
+aspectTerm length16
+remaining AT:सेंसर
+remaining length:5
+remaining length5
+outter if :का
+outter if :फिंगप्रिंट सेंसर
+outter if :उपयोग
+outter if :फिंगप्रिंट सेंसर
+outter if :कर
+outter if :फिंगप्रिंट सेंसर
+outter if :इसे
+outter if :फिंगप्रिंट सेंसर
+outter if :डॉक्यूमेंट
+outter if :फिंगप्रिंट सेंसर
+outter if :पर
+outter if :फिंगप्रिंट सेंसर
+outter if :हस्तांतरित
+outter if :फिंगप्रिंट सेंसर
+outter if :किया
+outter if :फिंगप्रिंट सेंसर
+outter if :जा
+outter if :फिंगप्रिंट सेंसर
+outter if :सकता
+outter if :फिंगप्रिंट सेंसर
+outter if :है
+outter if :फिंगप्रिंट सेंसर
+outter if :।
+outter if :फिंगप्रिंट सेंसर
+iter:79
+कॉर्पोरेट
+वर्ल्ड
+में
+डोक्यूमेंट्स
+को
+डिजिटली
+हस्ताक्षर
+करना
+कोई
+बड़ी
+या
+नई
+बात
+नहीं
+है
+लेकिन
+जितना
+आसान
+डिजिटल
+हस्ताक्षर
+के
+साथ
+डॉक्यूमेंट
+को
+प्रमाणित
+करने
+के
+लिए
+कहना
+होता
+है
+,
+उतना
+आसान
+यह
+डिजिटल
+हस्ताक्षर
+करना
+संभव
+नहीं
+हो
+पाता
+।
+iter:80
+‘
+एंटर
+साइन
+ईजी
+एप
+’
+के
+साथ
+आईफोन
+5एस
+के
+उपभोक्ताओं
+की
+यह
+परेशानी
+खत्म
+हो
+जाती
+है
+।
+iter:81
+इस
+एप
+की
+एक
+बड़ी
+खूबी
+यह
+है
+कि
+इसमें
+आपको
+बार
+-
+बार
+डिजिटल
+हस्ताक्षर
+करने
+की
+जरूरत
+नहीं
+पड़ती
+।
+outter if :इस
+outter if :डिजिटल हस्ताक्षर
+outter if :एप
+outter if :डिजिटल हस्ताक्षर
+outter if :की
+outter if :डिजिटल हस्ताक्षर
+outter if :एक
+outter if :डिजिटल हस्ताक्षर
+outter if :बड़ी
+outter if :डिजिटल हस्ताक्षर
+outter if :खूबी
+outter if :डिजिटल हस्ताक्षर
+outter if :यह
+outter if :डिजिटल हस्ताक्षर
+outter if :है
+outter if :डिजिटल हस्ताक्षर
+outter if :कि
+outter if :डिजिटल हस्ताक्षर
+outter if :इसमें
+outter if :डिजिटल हस्ताक्षर
+outter if :आपको
+outter if :डिजिटल हस्ताक्षर
+outter if :बार
+outter if :डिजिटल हस्ताक्षर
+outter if :-
+outter if :डिजिटल हस्ताक्षर
+outter if :बार
+outter if :डिजिटल हस्ताक्षर
+outter if :डिजिटल
+outter if :डिजिटल हस्ताक्षर
+aspectTerm:डिजिटल हस्ताक्षर
+sentence token:डिजिटल
+sentence token length :6
+aspectTerm length16
+remaining AT:हस्ताक्षर
+remaining length:9
+remaining length9
+outter if :करने
+outter if :डिजिटल हस्ताक्षर
+outter if :की
+outter if :डिजिटल हस्ताक्षर
+outter if :जरूरत
+outter if :डिजिटल हस्ताक्षर
+outter if :नहीं
+outter if :डिजिटल हस्ताक्षर
+outter if :पड़ती
+outter if :डिजिटल हस्ताक्षर
+outter if :।
+outter if :डिजिटल हस्ताक्षर
+iter:82
+बस
+एक
+बार
+साइन
+ईजी
+एप
+डाउनलोड
+करने
+के
+बाद
+आप
+यह
+डिजिटल
+हस्ताक्षर
+अपने
+आईफोन
+5एस
+पर
+ड्रॉ
+करते
+हैं
+और
+बाद
+में
+फोन
+के
+टच
+आईडी
+सेंसर
+की
+मदद
+से
+कितनी
+भी
+बार
+इसका
+उपयोग
+किया
+जा
+सकता
+है
+।
+outter if :बस
+outter if :डिजिटल हस्ताक्षर
+outter if :एक
+outter if :डिजिटल हस्ताक्षर
+outter if :बार
+outter if :डिजिटल हस्ताक्षर
+outter if :साइन
+outter if :डिजिटल हस्ताक्षर
+outter if :ईजी
+outter if :डिजिटल हस्ताक्षर
+outter if :एप
+outter if :डिजिटल हस्ताक्षर
+outter if :डाउनलोड
+outter if :डिजिटल हस्ताक्षर
+outter if :करने
+outter if :डिजिटल हस्ताक्षर
+outter if :के
+outter if :डिजिटल हस्ताक्षर
+outter if :बाद
+outter if :डिजिटल हस्ताक्षर
+outter if :आप
+outter if :डिजिटल हस्ताक्षर
+outter if :यह
+outter if :डिजिटल हस्ताक्षर
+outter if :डिजिटल
+outter if :डिजिटल हस्ताक्षर
+aspectTerm:डिजिटल हस्ताक्षर
+sentence token:डिजिटल
+sentence token length :6
+aspectTerm length16
+remaining AT:हस्ताक्षर
+remaining length:9
+remaining length9
+outter if :अपने
+outter if :डिजिटल हस्ताक्षर
+outter if :आईफोन
+outter if :डिजिटल हस्ताक्षर
+outter if :5एस
+outter if :डिजिटल हस्ताक्षर
+outter if :पर
+outter if :डिजिटल हस्ताक्षर
+outter if :ड्रॉ
+outter if :डिजिटल हस्ताक्षर
+outter if :करते
+outter if :डिजिटल हस्ताक्षर
+outter if :हैं
+outter if :डिजिटल हस्ताक्षर
+outter if :और
+outter if :डिजिटल हस्ताक्षर
+outter if :बाद
+outter if :डिजिटल हस्ताक्षर
+outter if :में
+outter if :डिजिटल हस्ताक्षर
+outter if :फोन
+outter if :डिजिटल हस्ताक्षर
+outter if :के
+outter if :डिजिटल हस्ताक्षर
+outter if :टच
+outter if :डिजिटल हस्ताक्षर
+outter if :आईडी
+outter if :डिजिटल हस्ताक्षर
+outter if :सेंसर
+outter if :डिजिटल हस्ताक्षर
+outter if :की
+outter if :डिजिटल हस्ताक्षर
+outter if :मदद
+outter if :डिजिटल हस्ताक्षर
+outter if :से
+outter if :डिजिटल हस्ताक्षर
+outter if :कितनी
+outter if :डिजिटल हस्ताक्षर
+outter if :भी
+outter if :डिजिटल हस्ताक्षर
+outter if :बार
+outter if :डिजिटल हस्ताक्षर
+outter if :इसका
+outter if :डिजिटल हस्ताक्षर
+outter if :उपयोग
+outter if :डिजिटल हस्ताक्षर
+outter if :किया
+outter if :डिजिटल हस्ताक्षर
+outter if :जा
+outter if :डिजिटल हस्ताक्षर
+outter if :सकता
+outter if :डिजिटल हस्ताक्षर
+outter if :है
+outter if :डिजिटल हस्ताक्षर
+outter if :।
+outter if :डिजिटल हस्ताक्षर
+iter:83
+यह
+एप
+आपके
+हस्ताक्षर
+की
+एक
+छोटी
+पिक्चर
+आपके
+चुने
+हुए
+डॉक्यूमेंट
+पर
+फिक्स
+कर
+देती
+है
+।
+iter:84
+इसके
+बाद
+डॉक्यूमेंट
+की
+साइज
+के
+अनुसार
+हस्ताक्षर
+की
+साइज
+सेट
+की
+जा
+सकती
+है
+या
+जरूरत
+के
+अनुसार
+डॉक्यूमेंट
+पर
+इसे
+फिक्स
+करने
+की
+जगह
+भी
+बदली
+जा
+सकती
+है
+और
+अपने
+अनुसार
+सही
+जगह
+लगाया
+जा
+सकता
+है
+।
+iter:85
+इसके
+प्रयोग
+में
+बस
+एक
+ही
+परेशानी
+है
+,
+वह
+यह
+कि
+हस्ताक्षर
+किए
+जाने
+वाले
+डॉक्यूमेंट
+बस
+‘
+आईओएस
+मेल
+एप
+’
+से
+ही
+खोले
+गए
+होने
+चाहिए
+।
+outter if :इसके
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :प्रयोग
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :में
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :बस
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :एक
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :ही
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :परेशानी
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :है
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :,
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :वह
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :यह
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :कि
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :हस्ताक्षर
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+aspectTerm:हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+sentence token:हस्ताक्षर
+sentence token length :9
+aspectTerm length34
+remaining AT:किए जाने वाले डॉक्यूमेंट
+remaining length:24
+remaining length24
+remaining length20
+remaining length15
+remaining length10
+outter if :बस
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :‘
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :आईओएस
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :मेल
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :एप
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :’
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :से
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :ही
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :खोले
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :गए
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :होने
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :चाहिए
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+outter if :।
+outter if :हस्ताक्षर किए जाने वाले डॉक्यूमेंट
+iter:86
+हालांकि
+इसमें
+थर्ड
+पार्टी
+एप्लिकेंशंस
+अटैचमेंट
+खोलने
+का
+ऑप्शन
+भी
+है
+लेकिन
+साइनईजी
+एप
+पर
+सीधे
+तौर
+पर
+जीमेल
+से
+कोई
+डॉक्यूमेंट
+खोला
+नहीं
+जा
+सकता
+।
+outter if :हालांकि
+outter if :डॉक्यूमेंट
+outter if :इसमें
+outter if :डॉक्यूमेंट
+outter if :थर्ड
+outter if :डॉक्यूमेंट
+outter if :पार्टी
+outter if :डॉक्यूमेंट
+outter if :अटैचमेंट
+outter if :डॉक्यूमेंट
+outter if :खोलने
+outter if :डॉक्यूमेंट
+outter if :का
+outter if :डॉक्यूमेंट
+outter if :ऑप्शन
+outter if :डॉक्यूमेंट
+outter if :भी
+outter if :डॉक्यूमेंट
+outter if :है
+outter if :डॉक्यूमेंट
+outter if :लेकिन
+outter if :डॉक्यूमेंट
+outter if :साइनईजी
+outter if :डॉक्यूमेंट
+outter if :एप
+outter if :डॉक्यूमेंट
+outter if :पर
+outter if :डॉक्यूमेंट
+outter if :सीधे
+outter if :डॉक्यूमेंट
+outter if :तौर
+outter if :डॉक्यूमेंट
+outter if :पर
+outter if :डॉक्यूमेंट
+outter if :जीमेल
+outter if :डॉक्यूमेंट
+outter if :से
+outter if :डॉक्यूमेंट
+outter if :कोई
+outter if :डॉक्यूमेंट
+outter if :डॉक्यूमेंट
+outter if :डॉक्यूमेंट
+aspectTerm:डॉक्यूमेंट
+sentence token:डॉक्यूमेंट
+sentence token length :10
+aspectTerm length10
+remaining AT:
+remaining length:0
+outter if :खोला
+outter if :डॉक्यूमेंट
+outter if :नहीं
+outter if :डॉक्यूमेंट
+outter if :जा
+outter if :डॉक्यूमेंट
+outter if :सकता
+outter if :डॉक्यूमेंट
+outter if :।
+outter if :डॉक्यूमेंट
+iter:87
+लंबा
+और
+घुमावदार
+हस्ताक्षर
+करने
+वालों
+के
+लिए
+भी
+यहां
+अपना
+हस्ताक्षर
+ड्रॉ
+करना
+परेशानी
+भरा
+हो
+सकता
+है
+।
+outter if :लंबा
+outter if :हस्ताक्षर
+outter if :और
+outter if :हस्ताक्षर
+outter if :घुमावदार
+outter if :हस्ताक्षर
+outter if :हस्ताक्षर
+outter if :हस्ताक्षर
+aspectTerm:हस्ताक्षर
+sentence token:हस्ताक्षर
+sentence token length :9
+aspectTerm length9
+remaining AT:
+remaining length:0
+outter if :करने
+outter if :हस्ताक्षर
+outter if :वालों
+outter if :हस्ताक्षर
+outter if :के
+outter if :हस्ताक्षर
+outter if :लिए
+outter if :हस्ताक्षर
+outter if :भी
+outter if :हस्ताक्षर
+outter if :यहां
+outter if :हस्ताक्षर
+outter if :अपना
+outter if :हस्ताक्षर
+outter if :हस्ताक्षर
+outter if :हस्ताक्षर
+aspectTerm:हस्ताक्षर
+sentence token:हस्ताक्षर
+sentence token length :9
+aspectTerm length9
+remaining AT:
+remaining length:0
+outter if :ड्रॉ
+outter if :हस्ताक्षर
+outter if :करना
+outter if :हस्ताक्षर
+outter if :परेशानी
+outter if :हस्ताक्षर
+outter if :भरा
+outter if :हस्ताक्षर
+outter if :हो
+outter if :हस्ताक्षर
+outter if :सकता
+outter if :हस्ताक्षर
+outter if :है
+outter if :हस्ताक्षर
+outter if :।
+outter if :हस्ताक्षर
+iter:88
+शानदार
+ग्राफ़िक्स
+और
+कार
+का
+सूक्ष्म
+विवरण
+देने
+वाला
+यह
+गेम
+आपके
+एंड्रायड
+उपकरण
+पर
+अवश्य
+होना
+चाहिए
+।
+outter if :शानदार
+outter if :ग्राफ़िक्स
+outter if :ग्राफ़िक्स
+outter if :ग्राफ़िक्स
+aspectTerm:ग्राफ़िक्स
+sentence token:ग्राफ़िक्स
+sentence token length :10
+aspectTerm length10
+remaining AT:
+remaining length:0
+outter if :और
+outter if :ग्राफ़िक्स
+outter if :कार
+outter if :ग्राफ़िक्स
+outter if :का
+outter if :ग्राफ़िक्स
+outter if :सूक्ष्म
+outter if :ग्राफ़िक्स
+outter if :विवरण
+outter if :ग्राफ़िक्स
+outter if :देने
+outter if :ग्राफ़िक्स
+outter if :वाला
+outter if :ग्राफ़िक्स
+outter if :यह
+outter if :ग्राफ़िक्स
+outter if :गेम
+outter if :ग्राफ़िक्स
+outter if :आपके
+outter if :ग्राफ़िक्स
+outter if :एंड्रायड
+outter if :ग्राफ़िक्स
+outter if :उपकरण
+outter if :ग्राफ़िक्स
+outter if :पर
+outter if :ग्राफ़िक्स
+outter if :अवश्य
+outter if :ग्राफ़िक्स
+outter if :होना
+outter if :ग्राफ़िक्स
+outter if :चाहिए
+outter if :ग्राफ़िक्स
+outter if :।
+outter if :ग्राफ़िक्स
+iter:89
+यह
+काफी
+हेवी
+गेम
+है
+,
+इसलिए
+यह
+सुनिश्चित
+कर
+लें
+कि
+आपके
+उपकरण
+में
+इसे
+स्टोर
+करने
+के
+लिए
+पर्याप्त
+जगह
+है
+और
+साथ
+ही
+अच्छे
+प्रदर्शन
+के
+लिए
+शक्तिशाली
+हार्डवेयर
+मौजूद
+है
+।
+iter:90
+एयरबोर्न
+एक
+बहुत
+शानदार
+रेसिंग
+अनुभव
+देता
+है
+,
+जहाँ
+रेस
+के
+आलावा
+आपको
+तेज़
+गति
+के
+एरिएल
+स्टंट
+,
+नॉकडाउन
+और
+ड्रिफ्टिंग
+को
+भी
+करना
+होता
+है
+।
+outter if :एक
+outter if :रेसिंग
+outter if :बहुत
+outter if :रेसिंग
+outter if :शानदार
+outter if :रेसिंग
+outter if :रेसिंग
+outter if :रेसिंग
+aspectTerm:रेसिंग
+sentence token:रेसिंग
+sentence token length :6
+aspectTerm length6
+remaining AT:
+remaining length:0
+outter if :अनुभव
+outter if :रेसिंग
+outter if :देता
+outter if :रेसिंग
+outter if :है
+outter if :रेसिंग
+outter if :,
+outter if :रेसिंग
+outter if :जहाँ
+outter if :रेसिंग
+outter if :रेस
+outter if :रेसिंग
+aspectTerm:रेसिंग
+sentence token:रेस
+sentence token length :3
+aspectTerm length6
+remaining AT:िंग
+remaining length:3
+remaining length3
+remaining length1

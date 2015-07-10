@@ -45,7 +45,7 @@ public class divideData{
 
 	    	while(sc.hasNextLine()){
 	    			boolean flag  = false;
-	    		while((buf = sc.nextLine()).compareTo("EOL")!=0){
+	    		while((buf = sc.nextLine()).compareTo("")!=0){
 	    			//System.out.print(buf);
 	    			tokens[tokCount] = buf;
 
@@ -80,7 +80,7 @@ public class divideData{
 	    		nNonAspectTerms =0;
 	    		bw.flush();
 	    		if(flag)
-	    		bw.write("EOL\n");
+	    		bw.write("\n");
 	    		//bw.flush();
 	    		
 	  	 	}

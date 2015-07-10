@@ -67,6 +67,10 @@ public class fMeasure
 			float prec = Precision(tp,fp)*100;
 			float recall = Recall(tp,fn)*100;
 			float fm = (2*prec*recall)/(prec+recall);
+			System.out.println("True Positive = ",tp);
+			System.out.println("True Negative = ",tn);
+			System.out.println("False positive =",pf);
+			System.out.println("False Negative = ",fn);
 			System.out.println("Precision="+prec);
 			System.out.println("Recall="+recall);
 

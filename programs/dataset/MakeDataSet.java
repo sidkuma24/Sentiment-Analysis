@@ -29,7 +29,7 @@ public class MakeDataSet
 	    			
 	    			boolean flag1  = false;
 	    			boolean flag2  = false;
-	    			while(((buf = sc.nextLine()).compareTo("EOL")!=0 )){
+	    			while(((buf = sc.nextLine()).compareTo("")!=0 )){
 
 	    				tokens[tokCount] = buf;
 	    				//System.out.println("tokens[" + tokCount + "] = " + tokens[tokCount]);
@@ -57,11 +57,11 @@ public class MakeDataSet
 	    			}
 	    			tokCount = 0;
 	    			if(flag1){
-	    				bw1.write("EOL\n");
+	    				bw1.write("\n");
 	    				bw1.flush();
 	    			}
 	    			if(flag2){
-	    				bw2.write("EOL\n");
+	    				bw2.write("\n");
 	    				bw2.flush();
 	    			}
 

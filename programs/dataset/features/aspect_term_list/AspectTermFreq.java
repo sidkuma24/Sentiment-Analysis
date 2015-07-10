@@ -8,14 +8,15 @@ public class AspectTermFreq
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
 
-		String outputFile = "apectTerm_list1.txt";
+		String outputFile = "../../../../data/sentiment/features/freq_aspect_tokens.txt";
+		String aspectTokenFile = "../../../../data/sentiment/features/all_aspect_tokens";
 		String buf = null;
 		String aspectTerm = null;
 		
 		int f1 = 4;
 
 		try{
-			Scanner sc = new Scanner(new File(args[0]));
+			Scanner sc = new Scanner(new File(aspectTokenFile));
 			
 			FileWriter fw = new FileWriter(outputFile);
 	    	BufferedWriter bw = new BufferedWriter(fw);
@@ -24,16 +25,16 @@ public class AspectTermFreq
 	    		buf = sc.nextLine();
 	    		int aspectTermFreq = 0;
 	    		aspectTerm = buf;
-	    		System.out.println("the at being searhed: "+aspectTerm);
-	    		Scanner sc2 = new Scanner(new File(args[0]));
+	    	//	System.out.println("the at being searhed: "+aspectTerm);
+	    		Scanner sc2 = new Scanner(new File(aspectTokenFile));
 	    		while(sc2.hasNextLine()){
 	    			String at = sc2.nextLine();
 	    			if(at.compareTo(aspectTerm)==0){
-	    				System.out.println("inside if :" + at);
+	    				//System.out.println("inside if :" + at);
 	    				aspectTermFreq++;
 	    			}
 	    		}
-	    		System.out.println("f of the at="+aspectTermFreq);
+	    	//	System.out.println("f of the at="+aspectTermFreq);
 	    		if(aspectTermFreq > f1 ){
 	    			boolean alreadyPresent = false;
 	    			Scanner sc3 = new Scanner(new File(outputFile));

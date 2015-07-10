@@ -9,9 +9,9 @@ public class modifyTokens
 	{
 
 		String outputFile = "mod_tokens.txt";
-		String inputFile = "../data/all_tokens.txt";
+		String inputFile = "../../../../data/sentiment/features/all_tokens.txt";
 		String buf = null;
-
+		int size = Integer.parseInt(args[0]);
 		
 	
 
@@ -24,13 +24,13 @@ public class modifyTokens
 	    	while(sc.hasNextLine()){
 	    		buf = sc.nextLine();
 	    		String temp = buf;
-	    		while(!temp.equals("EOL")){
+	    		while(!temp.equals("")){
 					
 					String token = temp;
-					if(token.length()>9){
-						token = token.substring(0,0+9);
+					if(token.length()>size){
+						token = token.substring(0,0+size);
 					}else{
-						for(int j = token.length();j<=10;j++){
+						for(int j = token.length();j<=size+1;j++){
 							token = token + "_";
 						}
 					}
@@ -38,7 +38,7 @@ public class modifyTokens
 					bw.flush();
 					temp = sc.nextLine();
 	    		}
-	    		bw.write("EOL\n");
+	    		bw.write("\n");
 	    		bw.flush();
 	    		
 	    	

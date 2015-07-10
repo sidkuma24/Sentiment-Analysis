@@ -6,9 +6,9 @@ public class AspectTermFreq2
 {
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
-		String tokenFile = "../data/all_tokens.txt";
-		String aspectTokenFile = "aspect_token_list";
-		String outputFile = "../data/freq_aspect_tokens.txt";
+		String tokenFile = "../../../../data/sentiment/features/all_tokens.txt";
+		String aspectTokenFile = "../../../../data/sentiment/features/freq_aspect_tokens.txt";
+		String outputFile = "../../../../data/sentiment/features/all_tokens_freq.txt";
 
 		try{
 			Scanner sc0 = new Scanner(new File(tokenFile));
@@ -20,7 +20,7 @@ public class AspectTermFreq2
 				buf = sc0.nextLine();
 				String temp = buf;
 
-				while(!temp.equals("EOL")){
+				while(!temp.equals("")){
 					Scanner sc1 = new Scanner(new File(aspectTokenFile));
 					boolean isFreq = false;
 					while(sc1.hasNextLine()){

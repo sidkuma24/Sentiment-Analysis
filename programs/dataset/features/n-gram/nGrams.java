@@ -24,8 +24,8 @@ public class nGrams
 	public static void main(String args[])throws IOException, ClassNotFoundException
 	{
 		String inputFile = "mod_tokens.txt";
-		String outputFile = "../data/4Grams.txt"; 
-
+		String outputFile = "../../../../data/sentiment/features/"+args[0]+"Grams.txt"; 
+		int size = Integer.parseInt(args[0]);
 		try{
 			Scanner sc = new Scanner(new File(inputFile));
 			FileWriter fw = new FileWriter(outputFile);
@@ -36,10 +36,10 @@ public class nGrams
 			{
 				buf = sc.nextLine();
 				String temp = buf;
-				while(!temp.equals("EOL")){
+				while(!temp.equals("")){
 					//System.out.println("Token inner: "+temp);
 					//bw.write(temp + "\t");
-					bw.write(nGrams(temp,4));
+					bw.write(nGrams(temp,size));
 					//bw.write(nGrams(temp,2));
 					//bw.write(nGrams(temp,3));
 					//bw.write(nGrams(temp,4));

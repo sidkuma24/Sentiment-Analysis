@@ -1,0 +1,151 @@
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.ParserConfigurationException;
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
+import org.w3c.dom.Element;
+import java.io.*;
+import java.util.*;
+ 
+public class GetAspectTermsFromXML {
+	public static int totalTokens = 0;
+ 
+  public static void main(String args[]) {
+ 
+  //	String outputFile = "class.txt";
+  //	String outputFile = "../../data/sentiment/features/all_tokens.txt";
+  	String aspectTermFile = "../../data/sentiment/features/all_aspect_terms.txt";
+
+    try {
+
+    //	FileWriter fw = new FileWriter(outputFile);
+	  //  BufferedWriter bw = new BufferedWriter(fw);
+
+ 		FileWriter fw2 = new FileWriter(aspectTermFile);
+	    BufferedWriter bw2 = new BufferedWriter(fw2);
+
+	    	FileWriter fw3 = new FileWriter("text.txt");
+	    BufferedWriter bw3 = new BufferedWriter(fw3);
+
+	    File xmlFile1 = new File(args[0]);
+		DocumentBuilderFactory dbFactory1 = DocumentBuilderFactory.newInstance();
+		DocumentBuilder dBuilder1 = dbFactory1.newDocumentBuilder();
+		Document doc1 = dBuilder1.parse(xmlFile1);
+
+		
+	//optional, but recommended
+	//read this - http://stackoverflow.com/questions/13786607/normalization-in-dom-parsing-with-java-how-does-it-work
+		doc1.getDocumentElement().normalize();
+		//doc2.getDocumentElement().normalize();
+		//doc3.getDocumentElement().normalize();
+		
+ 
+		//System.out.println("Root element :" + doc1.getDocumentElement().getNodeName());
+		//System.out.println("Root element :" + doc2.getDocumentElement().getNodeName());
+		//System.out.println("Root element :" + doc3.getDocumentElement().getNodeName());
+
+		NodeList nList1 = doc1.getElementsByTagName("sentence");
+		////NodeList nList2 = doc2.getElementsByTagName("sentence");
+	//	NodeList nList3 = doc3.getElementsByTagName("sentence");
+ 
+		
+ 
+		for (int temp = 0; temp < nList1.getLength(); temp++) {		//nList1.getLength()
+			
+			//first annotater
+			Node nNode1 = nList1.item(temp);
+ 			//System.out.println("\nCurrent Element :" + nNode1.getNodeName());
+ 
+			if (nNode1.getNodeType() == Node.ELEMENT_NODE) {
+ 
+				Element eElement1 = (Element) nNode1;
+ 
+				System.out.println("sentence id : " + eElement1.getAttribute("id"));
+				bw2.write(eElement1.getAttribute("id")+"\n");
+				//bw3.write(eElement1.getAttribute("id")+"##"+"\n");
+
+						//bw.write(eElement1.getAttribute("id"));
+				//bw.write("\t");
+				///System.out.println("apectTerms : " + eElement.getElementsByTagName("firstname").item(0).getTextContent());
+				//System.out.println("Last Name : " + eElement.getElementsByTagName("lastname").item(0).getTextContent());
+				//System.out.println("Nick Name : " + eElement.getElementsByTagName("nickname").item(0).getTextContent());
+				//System.out.println("Salary : " + eElement.getElementsByTagName("salary").item(0).getTextContent());
+				NodeList nodeList = nNode1.getChildNodes();
+				Element ele = (Element) nodeList;
+				String text = ele.getElementsByTagName("text").item(0).getTextContent();
+				bw3.write(text+"\n");
+				bw3.flush();
+				StringTokenizer st = new StringTokenizer(text," ।,");
+				String [] tokText = new String [st.countTokens()];
+				int tokCount = 0;
+				while(st.hasMoreTokens())
+				{
+                   tokText[tokCount]=st.nextToken();
+                   tokCount++;
+				} 
+				totalTokens = totalTokens + tokCount;
+				//System.out.println("No of tokens = " + tokCount);
+				String [] tokValue = new String[tokText.length];
+				Boolean[] tokFlag = new Boolean[tokText.length];
+				Arrays.fill(tokFlag, Boolean.FALSE);
+				String [] aspectTermBuffer = new String[20];
+				String [] termsOfAspectTerm = new String[10];
+				boolean aspectTermPresent = false;
+				boolean flag1 = false;
+				boolean flag2 = false;
+				for(int j = 0; j < nodeList.getLength(); j++){
+					Node nNode1_1 = nodeList.item(j);
+					//System.out.println("\nCurrent Element :" + nNode1.getNodeName());
+					if(nNode1_1.getNodeName() == "aspectTerms"){
+						aspectTermPresent = true;
+						//Element ele =  (Element) nNode1_1;
+						NodeList nodeList1 = nNode1_1.getChildNodes();
+						outer:
+						for(int k =0;k<nodeList1.getLength();k++){
+							Node nNode1_2 = nodeList1.item(k);
+							Element ele1 = (Element) nNode1_2;
+							//System.out.println("term:" + ele1.getAttribute("term"));
+							//System.out.println("polarity:" + ele1.getAttribute("polarity"));
+							aspectTermBuffer[k] = ele1.getAttribute("term");
+							bw2.write(aspectTermBuffer[k]);
+							bw2.newLine();
+							bw2.flush();
+						} 
+						
+
+						bw2.flush();
+						//System.out.println("term:" + ele.getAttribute("term"));
+						//System.out.println("polarity:" + ele.getAttribute("polarity"));
+					}
+				
+				
+				}
+				
+			}
+
+					
+		bw2.write("EOL\n");	//bw.write("\n");	
+ 			//bw.flush();
+		}
+			//bw.write("\t");
+					//System.out.println("term:" + ele.getAttribute("term"));
+						//System.out.println("polarity:" + ele.getAttribute("polarity"));
+					
+			
+ 				
+			
+		//bw.write("");
+	bw2.flush();
+	//bw.close();
+	bw2.close();
+	//System.out.println("no of sentences= "+ nList1.getLength());
+	//System.out.println("total no of tokens = "+ totalTokens);
+	bw3.close();
+		
+    }catch (Exception e) {
+		e.printStackTrace();
+    }
+  }
+ 
+}
